@@ -278,66 +278,7 @@ p = 1,3561 × 10⁻⁵
 
 Con un nivel de significancia de α = 0,05, el notebook rechaza la hipótesis nula de distribución uniforme.
 
-📈 9. ANOVA de una vía
-
-Posteriormente se utiliza un ANOVA de una vía para comparar la intensidad máxima entre los cuatro departamentos:
-
-Santander
-Chocó
-Antioquia
-Valle del Cauca
-
-El resultado obtenido fue:
-
-F = 28,2411
-p = 2,7927 × 10⁻¹⁴
-
-El análisis del notebook utiliza este resultado como evidencia de diferencias entre los grupos.
-
-También se genera un boxplot para visualizar la distribución de la intensidad máxima por departamento.
-
-⚖️ 10. Prueba de Levene
-
-Antes de interpretar el ANOVA, se realiza una prueba de Levene para evaluar la homogeneidad de las varianzas.
-
-Resultado:
-
-Estadístico de Levene = 8,7736
-p = 2,3106 × 10⁻⁵
-
-El resultado obtenido indica varianzas heterogéneas entre los grupos bajo el criterio utilizado en el notebook.
-
-Por esta razón, el análisis continúa mediante una prueba no paramétrica.
-
-📊 11. Prueba de Kruskal-Wallis
-
-Debido a la heterogeneidad de las varianzas, se aplica la prueba de Kruskal-Wallis.
-
-Resultado:
-
-H = 55,5466
-p = 5,2492 × 10⁻¹²
-
-El resultado permite identificar diferencias estadísticamente significativas entre las distribuciones de los grupos analizados.
-
-🔬 12. Comparaciones post-hoc
-
-Después de Kruskal-Wallis se realizan comparaciones por pares mediante la prueba de Mann-Whitney U, aplicando una corrección de Bonferroni por las seis comparaciones posibles.
-
-Los resultados obtenidos fueron:
-
-Comparación	p corregido	Resultado en el notebook
-Santander vs Chocó	8,9082 × 10⁻¹⁰	Diferencia significativa
-Santander vs Antioquia	1,1605 × 10⁻⁷	Diferencia significativa
-Santander vs Valle del Cauca	1,0000	No significativa
-Chocó vs Antioquia	4,3471 × 10⁻¹	No significativa
-Chocó vs Valle del Cauca	7,4399 × 10⁻³	Diferencia significativa
-Antioquia vs Valle del Cauca	2,2950 × 10⁻²	Diferencia significativa
-
-El nivel de significancia utilizado es:
-
-α = 0,05
-📉 13. Visualizaciones
+📉 9. Visualizaciones
 
 El análisis incorpora diferentes representaciones gráficas para facilitar la interpretación de los datos.
 
@@ -357,7 +298,7 @@ Santander
 Chocó
 Antioquia
 Valle del Cauca
-🧪 14. Flujo general del análisis
+🧪 10. Flujo general del análisis
 
 El proyecto sigue el siguiente flujo:
 
@@ -392,7 +333,7 @@ Kruskal-Wallis
 Mann-Whitney + Bonferroni
       ↓
 Visualización e interpretación
-⚠️ 15. Limitaciones
+⚠️ 11. Limitaciones
 
 El propio análisis identifica dos limitaciones principales:
 
