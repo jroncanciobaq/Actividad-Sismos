@@ -17,11 +17,10 @@ Establecer un nivel de amenaza sísmica a partir del departamento asociado al ev
 Calcular una variable de intensidad máxima estimada.
 Realizar consultas analíticas utilizando DuckDB.
 Analizar la distribución de los eventos sísmicos mediante pruebas estadísticas.
-Aplicar pruebas paramétricas y no paramétricas para comparar grupos.
 Visualizar la distribución de las variables mediante histogramas y boxplots.
 Identificar las principales limitaciones del análisis.
-🗂️ Datos
 
+🗂️ Datos
 La base de datos utilizada contiene 646 registros y 25 variables inicialmente.
 
 Entre las variables originales se encuentran:
@@ -142,8 +141,8 @@ City_na = df_sismos['City'].isna()
 df_sismos.loc[City_na, 'City'] = (
     df_sismos.loc[City_na, 'Details']
 )
-🌊 3. Clasificación de profundidad
 
+🌊 3. Clasificación de profundidad
 Se crea una nueva variable denominada Nivel_profundidad.
 
 Los eventos son clasificados en tres categorías:
@@ -156,7 +155,6 @@ Profundidad	Clasificación
 La clasificación se implementa mediante NumPy.
 
 📏 4. Clasificación de magnitud
-
 Se crea la variable Clasificacion_Magnitud.
 
 Las categorías utilizadas en el notebook son:
@@ -169,8 +167,8 @@ Magnitud	Clasificación
 6,0 – 6,9	Fuerte
 7,0 – 7,9	Muy fuerte
 ≥ 8,0	Grave
-⚠️ 5. Clasificación del nivel de amenaza
 
+⚠️ 5. Clasificación del nivel de amenaza
 Se crea una variable denominada Nivel_amenaza utilizando el departamento o región asociado a cada evento.
 
 Los departamentos/regiones son agrupados en tres categorías:
@@ -182,7 +180,6 @@ Bajo
 Esta clasificación se utiliza posteriormente como uno de los filtros principales de las consultas estadísticas.
 
 📐 6. Cálculo de la intensidad máxima
-
 El notebook calcula una variable denominada Intensidad_maxima utilizando una expresión empírica basada en los parámetros definidos en el código:
 
 a = 2
@@ -198,7 +195,6 @@ df_sismos['Intensidad_maxima'] = (
 Esta variable se utiliza posteriormente para filtrar los eventos y realizar las comparaciones estadísticas entre departamentos.
 
 🗃️ 7. Consultas SQL con DuckDB
-
 Una de las principales herramientas utilizadas en el proyecto es DuckDB, que permite ejecutar consultas SQL directamente sobre el DataFrame.
 
 Consulta 1 — Filtrado de eventos
@@ -253,9 +249,7 @@ ORDER BY Conteo DESC
 
 El resultado se utiliza como base para el análisis de hipótesis.
 
-📊 8. Análisis estadístico
-8.1. Prueba Chi-cuadrado
-
+📊 8. Análisis estadístico Prueba Chi-cuadrado
 Se utiliza una prueba de Chi-cuadrado de bondad de ajuste para analizar si la frecuencia de eventos entre los cuatro departamentos seleccionados puede considerarse uniforme.
 
 Hipótesis
@@ -279,7 +273,6 @@ p = 1,3561 × 10⁻⁵
 Con un nivel de significancia de α = 0,05, el notebook rechaza la hipótesis nula de distribución uniforme.
 
 📉 9. Visualizaciones
-
 El análisis incorpora diferentes representaciones gráficas para facilitar la interpretación de los datos.
 
 Histograma de magnitudes
@@ -298,8 +291,8 @@ Santander
 Chocó
 Antioquia
 Valle del Cauca
-🧪 10. Flujo general del análisis
 
+🧪 10. Flujo general del análisis
 El proyecto sigue el siguiente flujo:
 
 Carga de datos
@@ -324,17 +317,9 @@ Selección de departamentos
       ↓
 Chi-cuadrado
       ↓
-ANOVA
-      ↓
-Prueba de Levene
-      ↓
-Kruskal-Wallis
-      ↓
-Mann-Whitney + Bonferroni
-      ↓
 Visualización e interpretación
-⚠️ 11. Limitaciones
 
+⚠️ 11. Limitaciones
 El propio análisis identifica dos limitaciones principales:
 
 Restricción de los valores analizados:
@@ -344,41 +329,15 @@ La base utilizada comprende aproximadamente seis años, por lo que el periodo an
 
 Estas limitaciones deben considerarse al interpretar los resultados estadísticos.
 
-📁 Estructura sugerida del repositorio
-Taller-5/
-│
-├── README.md
-├── Taller_5.ipynb
-│
-└── data/
-    ├── Sismos2.csv
-    └── Sismos_limpio2.csv
 
-Los archivos CSV no se incluyen directamente en el notebook como rutas relativas; actualmente el código utiliza rutas locales de Windows. Para facilitar la reproducción del proyecto en GitHub, se recomienda modificar estas rutas para utilizar una estructura relativa dentro del repositorio.
-
-Por ejemplo:
-
-df_sismos = pd.read_csv(
-    "data/Sismos2.csv",
-    sep=";",
-    decimal=","
-)
 ▶️ Cómo ejecutar el proyecto
-1. Clonar el repositorio
-git clone <URL_DEL_REPOSITORIO>
-2. Acceder a la carpeta
-cd Taller-5
-3. Instalar las dependencias
-pip install pandas numpy duckdb seaborn matplotlib scipy scikit-posthocs
-4. Abrir el notebook
-
 El análisis puede ejecutarse utilizando:
 
 Jupyter Notebook
 JupyterLab
 Visual Studio Code
 Google Colab, realizando previamente los ajustes necesarios para la ubicación de los archivos.
-5. Ejecutar Taller_5.ipynb
+Ejecutar Taller_5.ipynb
 
 Se recomienda ejecutar las celdas en orden para reproducir:
 
@@ -399,8 +358,6 @@ Exploración y visualización de datos.
 Manejo de valores faltantes.
 Transformación y clasificación de variables.
 Pruebas de hipótesis.
-Análisis paramétrico y no paramétrico.
-Comparaciones múltiples mediante corrección de Bonferroni.
 Interpretación estadística de resultados.
 
 👨‍💻 Autores
