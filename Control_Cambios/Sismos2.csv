@@ -1,0 +1,643 @@
+﻿time;latitude;longitude;depth;mag;magType;nst;gap;dmin;rms;net;id;updated;type;horizontalError;depthError;magError;magNst;status;locationSource;magSource;Details;City;state;Place
+19/08/2026 5:07;60705;-774357;10;4,4;mb;41;137;19;7;us;us6000tluk;20/08/2026 2:15;earthquake;689;1913;103;27;reviewed;us;us;17 km SSW of Bahía Solano;Bahía Solano;Choco;Colombia
+15/08/2026 19:18;68902;-730936;146,65;4,2;mb;29;118;991;77;us;us6000tl4c;15/08/2026 22:27;earthquake;79;9958;132;16;reviewed;us;us;11 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+13/08/2026 9:42;48666;-763547;105,62;4,3;mb;34;101;1551;108;us;us6000tkha;13/08/2026 13:33;earthquake;716;9711;153;12;reviewed;us;us;13 km WSW of San José del Palmar;San José del Palmar;Choco;Colombia
+11/08/2026 17:29;62416;-737019;116,73;4,5;mb;26;61;706;84;us;us6000tkql;20/08/2026 17:21;earthquake;643;7293;191;8;reviewed;us;us;12 km ENE of Landázuri;Landázuri;Santander;Colombia
+11/08/2026 10:43;49201;-763385;100,61;4,2;mb;34;113;1498;57;us;us6000tjzx;12/08/2026 9:16;earthquake;485;8754;112;23;reviewed;us;us;11 km WNW of San José del Palmar;San José del Palmar;Choco;Colombia
+10/08/2026 8:18;48971;-763859;98,52;5;mb;115;87;1542;103;us;us6000tjm4;17/08/2026 11:36;earthquake;587;8026;46;154;reviewed;us;us;16 km W of San José del Palmar;San José del Palmar;Choco;Colombia
+10/08/2026 7:34;48436;-762422;110,29;7,4;mww;151;19;1515;86;us;us6000tjl2;22/08/2026 16:09;earthquake;66;4553;26;147;reviewed;us;us;5 km S of San José del Palmar;San José del Palmar;Choco;Colombia
+6/08/2026 1:53;87076;-749712;51,71;4,3;mb;34;83;1199;102;us;us6000tiif;12/08/2026 6:36;earthquake;579;333;106;25;reviewed;us;us;18 km ENE of San Marcos;San Marcos;Sucre;Colombia
+2/08/2026 12:12;76498;-771911;34,42;4,4;mb;35;95;145;44;us;us6000thmv;13/08/2026 10:20;earthquake;587;713;139;15;reviewed;us;us;24 km NNW of Riosucio;Riosucio;Choco;Colombia
+25/07/2026 21:13;48056;-727048;10;4,6;mb;71;58;1144;84;us;us7000t3eb;15/08/2026 17:36;earthquake;423;1849;74;54;reviewed;us;us;19 km WNW of Ubalá;Ubalá;Casanare;Colombia
+25/07/2026 1:29;38995;-786426;10;4,4;mb;40;130;2597;116;us;us7000t3a3;18/08/2026 12:10;earthquake;745;1924;117;21;reviewed;us;us;147 km WSW of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+23/07/2026 12:50;66869;-730936;153,26;4,5;mb;95;38;789;89;us;us7000t2u4;9/08/2026 12:36;earthquake;803;541;38;202;reviewed;us;us;5 km S of Jordán;Jordán;Santander;Colombia
+23/07/2026 10:10;69212;-731419;146,2;4,3;mb;20;115;1024;102;us;us6000tgnw;6/08/2026 14:38;earthquake;845;4658;265;4;reviewed;us;us;12 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+19/07/2026 20:44;67762;-730623;153,07;4,6;mb;55;45;878;8;us;us7000t1vc;3/08/2026 23:10;earthquake;762;6502;32;291;reviewed;us;us;6 km NE of Jordán;Jordán;Santander;Colombia
+18/07/2026 3:40;33349;-793295;10;4,4;mb;78;140;2085;74;us;us7000t1kk;11/08/2026 10:39;earthquake;777;1911;65;68;reviewed;us;us;133 km NW of Mosquera;Mosquera;Cundinamarca;Colombia
+15/07/2026 15:13;6702;-731432;152,45;4,3;mb;109;40;3298;64;us;us7000t0ss;18/08/2026 12:32;earthquake;928;8017;55;97;reviewed;us;us;4 km NE of Villanueva;Villanueva;Santander;Colombia
+28/06/2026 3:39;51217;-762727;96,89;4,4;mb;44;115;463;77;us;us6000t8sr;15/07/2026 7:19;earthquake;951;8909;7;58;reviewed;us;us;25 km N of San José del Palmar;San José del Palmar;Choco;Colombia
+26/06/2026 3:31;40074;-765596;10;4,2;mb;25;111;3492;102;us;us6000t9y4;12/07/2026 1:52;earthquake;1193;1947;124;18;reviewed;us;us;11 km NW of Darien;Darien;Valle del Cauca;Colombia
+17/06/2026 5:51;67412;-729674;167,23;4,7;mb;204;46;3143;57;us;us7000stm0;9/07/2026 1:51;earthquake;931;7444;27;427;reviewed;us;us;1 km SSE of Cepitá;Cepitá;Santander;Colombia
+16/06/2026 23:11;67457;-730298;168,64;4,2;mb;45;134;3185;76;us;us7000stkj;3/07/2026 0:27;earthquake;1132;8459;86;38;reviewed;us;us;5 km NNW of Aratoca;Aratoca;Santander;Colombia
+23/05/2026 16:26;6776;-729668;162,26;4,4;mb;46;120;2344;89;us;us6000szsz;5/08/2026 10:58;earthquake;946;8324;56;92;reviewed;us;us;2 km NNE of Cepitá;Cepitá;Santander;Colombia
+14/05/2026 7:48;41341;-766659;112,73;5,3;mww;122;66;2442;94;us;us6000sxn9;25/07/2026 17:12;earthquake;72;473;58;29;reviewed;us;us;30 km NW of Darien;Darien;Choco;Colombia
+2/05/2026 8:37;52447;-762871;104,42;4,5;mb;50;104;1998;83;us;us6000swxr;15/07/2026 10:25;earthquake;434;8614;82;46;reviewed;us;us;23 km SE of Bagadó;Bagadó;Choco;Colombia
+26/04/2026 3:10;6728;-72967;168,89;4,2;mb;36;97;2305;82;us;us6000svcx;11/07/2026 14:58;earthquake;1065;9263;91;34;reviewed;us;us;3 km SSE of Cepitá;Cepitá;Santander;Colombia
+18/04/2026 9:05;71007;-753286;66,03;4,3;mb;46;93;2455;62;us;us7000sghg;2/07/2026 20:39;earthquake;895;9174;9;35;reviewed;us;us;13 km NNW of Campamento;Campamento;Antioquia;Colombia
+18/04/2026 5:24;6798;-730411;166,03;4,6;mb;48;83;2321;84;us;us6000sr3g;2/07/2026 20:38;earthquake;113;10259;29;362;reviewed;us;us;8 km WNW of Cepitá;Cepitá;Santander;Colombia
+16/04/2026 20:37;67502;-730368;162,89;4,1;mb;32;146;2284;66;us;us6000ssl9;2/07/2026 20:38;earthquake;1128;12889;12;19;reviewed;us;us;6 km NNW of Aratoca;Aratoca;Santander;Colombia
+12/04/2026 20:38;60936;-720778;22,27;4,4;mb;52;69;2555;6;us;us6000spk4;24/06/2026 11:34;earthquake;55;6166;81;44;reviewed;us;us;18 km E of Sácama;Sácama;Casanare;Colombia
+12/04/2026 16:00;61979;-724159;10;4,6;mb;48;76;2324;47;us;us6000spjl;24/06/2026 11:34;earthquake;64;1833;6;82;reviewed;us;us;6 km E of Chita;Chita;Boyaca;Colombia
+12/04/2026 6:50;59384;-786809;10;4,8;mww;65;116;3406;9;us;us6000sph9;24/06/2026 11:34;earthquake;756;1884;73;18;reviewed;us;us;144 km WSW of Bahía Solano;Bahía Solano;Choco;Colombia
+7/04/2026 1:51;68337;-730995;164,63;4,1;mb;29;143;232;8;us;us6000sqs8;20/06/2026 12:05;earthquake;947;12438;135;15;reviewed;us;us;11 km N of Jordán;Jordán;Santander;Colombia
+30/03/2026 22:11;67458;-729227;170,97;4,1;mb;16;149;2345;86;us;us6000snxj;10/06/2026 10:14;earthquake;1124;14423;213;6;reviewed;us;us;5 km E of Cepitá;Cepitá;Santander;Colombia
+22/03/2026 10:15;54203;-76285;104,87;4,2;mb;14;112;2038;33;us;us7000s9eh;4/06/2026 13:38;earthquake;868;13076;175;9;reviewed;us;us;14 km E of Bagadó;Bagadó;Choco;Colombia
+22/03/2026 4:11;75819;-732099;155,32;4,2;mb;37;68;2935;65;us;us7000s9e8;4/06/2026 13:38;earthquake;1077;9609;101;27;reviewed;us;us;12 km N of El Playón;El Playón;Santander;Colombia
+19/03/2026 18:41;67497;-73041;170,55;4,5;mb;41;107;2281;89;us;us6000shlm;4/06/2026 13:37;earthquake;893;9913;55;95;reviewed;us;us;6 km ENE of Jordán;Jordán;Santander;Colombia
+17/03/2026 10:52;67887;-731743;170,39;4,2;mb;28;200;2243;69;us;us7000s7vt;26/05/2026 14:17;earthquake;1463;9083;121;19;reviewed;us;us;10 km NW of Jordán;Jordán;Santander;Colombia
+9/03/2026 17:11;46844;-760839;114,53;4,6;mb;43;109;1764;53;us;us7000s39a;22/05/2026 16:58;earthquake;907;7991;48;131;reviewed;us;us;5 km SE of Argelia;Argelia;Valle del Cauca;Colombia
+1/03/2026 5:12;76416;-726871;190,29;4,9;mww;67;83;2377;87;us;us7000s17z;15/05/2026 17:02;earthquake;857;7266;71;19;reviewed;us;us;5 km NW of Bochalema;Bochalema;Norte de Santander;Colombia
+14/02/2026 6:21;67101;-729411;169,36;4,3;mb;54;170;2306;73;us;us6000s97b;6/05/2026 12:53;earthquake;1362;13722;59;82;reviewed;us;us;6 km SE of Cepitá;Cepitá;Santander;Colombia
+13/02/2026 6:40;48655;-764465;103,96;4,9;mb;78;110;2118;77;us;us6000s8qy;6/05/2026 12:53;earthquake;899;7804;43;165;reviewed;us;us;20 km ESE of Nóvita;Nóvita;Choco;Colombia
+11/02/2026 0:59;67536;-730715;162,63;4,8;mb;70;37;2267;94;us;us6000s7rz;1/05/2026 9:35;earthquake;76;8148;26;465;reviewed;us;us;3 km NE of Jordán;Jordán;Santander;Colombia
+7/02/2026 15:46;44858;-76331;129,69;4,1;mb;19;98;2035;64;us;us6000sahj;1/05/2026 9:35;earthquake;952;11869;158;11;reviewed;us;us;10 km WSW of El Dovio;El Dovio;Valle del Cauca;Colombia
+24/01/2026 11:01;67755;-729296;160,32;4,2;mb;15;168;2365;66;us;us6000s7h1;21/04/2026 11:27;earthquake;1787;21204;187;8;reviewed;us;us;5 km ENE of Cepitá;Cepitá;Santander;Colombia
+16/01/2026 2:05;67451;-730141;177,2;4,9;mb;60;95;2292;62;us;us7000rq18;18/04/2026 9:46;earthquake;858;7009;24;564;reviewed;us;us;4 km WSW of Cepitá;Cepitá;Santander;Colombia
+9/01/2026 1:39;63198;-735376;129,29;4;mb;25;128;166;69;us;us6000s502;10/04/2026 10:20;earthquake;1198;10393;119;19;reviewed;us;us;7 km WNW of Contratación;Contratación;Santander;Colombia
+5/01/2026 0:35;67122;-730079;172,44;4,7;mww;115;48;2269;66;us;us7000rmi6;7/04/2026 17:11;earthquake;825;6216;11;8;reviewed;us;us;2 km NNE of Aratoca;Aratoca;Santander;Colombia
+3/01/2026 7:50;66345;-728528;166,28;4,4;mb;51;175;2301;68;us;us7000rm9f;7/04/2026 17:11;earthquake;1506;1632;54;100;reviewed;us;us;6 km SW of Molagavita;Molagavita;Santander;Colombia
+24/12/2025 21:38;66699;-729808;173,44;4,3;mb;59;65;2251;69;us;us7000rkng;1/04/2026 17:48;earthquake;92;8324;8;44;reviewed;us;us;4 km ESE of Aratoca;Aratoca;Santander;Colombia
+21/12/2025 9:05;30699;-751055;10;4,4;mb;43;73;1929;7;us;us7000rpwp;19/03/2026 8:56;earthquake;856;1931;101;28;reviewed;us;us;3 km E of Tello;Tello;Huila;Colombia
+10/12/2025 3:27;67742;-730156;164,12;5,5;mww;107;32;2315;78;us;us6000rtuk;10/03/2026 17:18;earthquake;731;3658;52;35;reviewed;us;us;5 km WNW of Cepitá;Cepitá;Santander;Colombia
+30/11/2025 23:05;59851;-77569;10;4,3;mb;21;126;3426;13;us;us6000rvpv;25/02/2026 11:18;earthquake;878;1939;126;18;reviewed;us;us;32 km SW of Bahía Solano;Bahía Solano;Choco;Colombia
+28/11/2025 23:32;67524;-729558;162,72;4,3;mb;36;121;2331;84;us;us6000rvgw;25/02/2026 11:18;earthquake;904;7851;89;36;reviewed;us;us;2 km E of Cepitá;Cepitá;Santander;Colombia
+21/11/2025 23:07;676;-729658;165,88;4,1;mb;13;167;2332;109;us;us6000rtxg;20/02/2026 11:07;earthquake;1358;17407;233;5;reviewed;us;us;1 km ENE of Cepitá;Cepitá;Santander;Colombia
+19/11/2025 21:38;76113;-73956;102,37;4,3;mb;37;88;2772;64;us;us6000rtez;20/02/2026 11:07;earthquake;813;10137;104;26;reviewed;us;us;26 km N of Cantagallo;Cantagallo;Bolivar;Colombia
+14/11/2025 5:30;67329;-730275;175,46;4,1;mb;31;165;2275;82;us;us6000rs6i;10/02/2026 10:55;earthquake;1211;5452;117;20;reviewed;us;us;4 km NNW of Aratoca;Aratoca;Santander;Colombia
+13/11/2025 2:47;68181;-730894;160,46;4,1;mb;14;162;2312;37;us;us7000rf2l;10/02/2026 10:55;earthquake;1339;183;262;4;reviewed;us;us;9 km N of Jordán;Jordán;Santander;Colombia
+2/11/2025 5:53;67319;-729212;156,47;4,1;mb;79;145;2335;66;us;us6000rpk7;27/01/2026 12:59;earthquake;1215;7684;64;66;reviewed;us;us;6 km ESE of Cepitá;Cepitá;Santander;Colombia
+1/11/2025 14:52;38376;-765812;136,42;4,3;mb;20;95;2466;74;us;us6000rpet;27/01/2026 12:59;earthquake;846;387;202;7;reviewed;us;us;6 km WNW of Restrepo;Restrepo;Valle del Cauca;Colombia
+24/10/2025 16:30;113798;-718215;96,56;4,7;mb;57;104;2742;49;us;us6000rjb5;15/01/2026 17:46;earthquake;1101;8154;37;217;reviewed;us;us;45 km E of Maicao;Maicao;La Guajira;Colombia
+15/10/2025 23:11;67376;-730446;166,85;4,3;mb;37;93;2269;64;us;us6000rhfn;9/01/2026 10:38;earthquake;797;10378;51;108;reviewed;us;us;5 km NNW of Aratoca;Aratoca;Santander;Colombia
+4/10/2025 22:38;67319;-729942;168,41;4,3;mb;43;86;2293;7;us;us6000rj7x;19/12/2025 17:50;earthquake;969;7438;75;51;reviewed;us;us;3 km SW of Cepitá;Cepitá;Santander;Colombia
+26/09/2025 14:43;67096;-729637;169,66;4,4;mb;40;125;2292;56;us;us6000rhvw;11/12/2025 16:40;earthquake;1175;8718;95;35;reviewed;us;us;5 km SSE of Cepitá;Cepitá;Santander;Colombia
+25/09/2025 19:21;67494;-729982;166,64;4,5;mb;56;80;2305;7;us;us6000rcz9;11/12/2025 16:40;earthquake;882;8457;48;128;reviewed;us;us;2 km WSW of Cepitá;Cepitá;Santander;Colombia
+21/09/2025 15:17;65236;-762637;10;4,9;mb;64;86;2553;11;us;us7000qxqs;6/12/2025 11:00;earthquake;721;1883;31;319;reviewed;us;us;25 km WSW of Abriaquí;Abriaquí;Antioquia;Colombia
+14/09/2025 5:10;69235;-731814;151,56;4,1;mb;54;156;2356;6;us;us6000rfea;2/12/2025 22:58;earthquake;1272;15614;77;46;reviewed;us;us;11 km ENE of Betulia;Betulia;Santander;Colombia
+14/09/2025 2:12;68248;-761391;10;5,4;mww;96;96;2672;76;us;us7000qw4k;2/12/2025 22:58;earthquake;652;1797;46;45;reviewed;us;us;5 km N of Frontino;Frontino;Antioquia;Colombia
+30/08/2025 16:50;6885;-731159;147,32;4,5;mb;38;127;987;66;us;us7000qsn0;19/11/2025 16:59;earthquake;84;9579;9;36;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+27/08/2025 20:23;56861;-778684;10;4,2;mb;17;124;238;13;us;us6000rcab;19/11/2025 16:59;earthquake;656;1789;136;15;reviewed;us;us;66 km W of Nuquí;Nuquí;Choco;Colombia
+27/08/2025 4:31;27226;-767369;10;4,4;mb;47;155;2253;55;us;us7000qr9r;19/11/2025 16:59;earthquake;829;1956;93;33;reviewed;us;us;12 km WSW of Morales;Morales;Cauca;Colombia
+25/08/2025 17:44;55626;-721709;10;4,3;mb;24;60;2257;35;us;us7000qxc0;12/11/2025 11:25;earthquake;636;1926;142;14;reviewed;us;us;8 km SSE of Nunchía;Nunchía;Casanare;Colombia
+18/08/2025 23:26;72465;-733228;127,64;4,1;mb;19;84;2584;86;us;us7000qvpt;4/11/2025 11:44;earthquake;631;12337;184;8;reviewed;us;us;18 km NW of Lebrija;Lebrija;Santander;Colombia
+10/08/2025 19:16;43578;-761928;150,11;4,7;mww;74;106;1927;87;us;us6000qzq9;25/10/2025 8:40;earthquake;824;6887;11;8;reviewed;us;us;2 km NNW of Bolívar;Bolívar;Valle del Cauca;Colombia
+7/08/2025 19:31;25724;-797378;10;4,9;mww;47;139;1552;92;us;us6000qyzv;25/10/2025 8:40;earthquake;701;169;69;20;reviewed;us;us;133 km WNW of Salahonda;Salahonda;Nariño;Colombia
+22/07/2025 22:57;69544;-731265;147,83;4,2;mb;30;115;2409;67;us;us6000qym2;11/10/2025 15:57;earthquake;786;11659;12;19;reviewed;us;us;9 km WSW of Piedecuesta;Piedecuesta;Santander;Colombia
+21/07/2025 1:16;69177;-731993;159,86;4,1;mb;17;80;2342;73;us;us6000qy9t;3/10/2025 13:41;earthquake;791;9042;186;8;reviewed;us;us;9 km ENE of Betulia;Betulia;Santander;Colombia
+13/07/2025 5:38;69431;-731526;151,09;4,3;mb;91;70;2386;81;us;us7000qce6;28/11/2025 16:04;earthquake;671;10212;58;84;reviewed;us;us;12 km WSW of Piedecuesta;Piedecuesta;Santander;Colombia
+10/07/2025 4:27;52089;-736458;146,8;4,4;mb;37;155;764;75;us;us6000qu6u;20/09/2025 17:27;earthquake;912;7733;112;23;reviewed;us;us;5 km W of Villapinzón;Villapinzón;Cundinamarca;Colombia
+7/07/2025 18:08;44911;-732066;10;4,4;mb;23;76;1165;33;us;us7000qdgb;12/09/2025 11:23;earthquake;61;1901;134;16;reviewed;us;us;12 km N of Paratebueno;Paratebueno;Cundinamarca;Colombia
+6/07/2025 8:29;69246;-730776;154,79;4,4;mb;46;89;2408;108;us;us7000qb07;12/09/2025 11:23;earthquake;4;9356;38;198;reviewed;us;us;7 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+23/06/2025 6:04;7484;-771241;45,11;4,4;mb;49;95;1556;69;us;us6000qlxq;2/09/2025 16:23;earthquake;688;821;103;27;reviewed;us;us;4 km N of Riosucio;Riosucio;Choco;Colombia
+23/06/2025 4:18;45768;-732685;10;4,5;mb;12;112;1082;1;us;us7000qapj;2/09/2025 16:23;earthquake;819;1344;204;7;reviewed;us;us;11 km NE of Medina;Medina;Cundinamarca;Colombia
+22/06/2025 19:10;25853;-797833;10;4,3;mb;41;161;1589;64;us;us6000qlvd;2/09/2025 16:23;earthquake;759;1736;104;26;reviewed;us;us;138 km WNW of Salahonda;Salahonda;Nariño;Colombia
+20/06/2025 14:58;24911;-762254;35,05;4,4;mb;51;72;2355;68;us;us6000qli3;2/09/2025 16:23;earthquake;78;6209;89;37;reviewed;us;us;18 km WSW of Inzá;Inzá;Cauca;Colombia
+9/06/2025 7:03;44519;-731153;10;4,5;mb;66;75;1264;71;us;us7000q8gi;20/08/2025 11:09;earthquake;716;1897;73;54;reviewed;us;us;13 km NE of Paratebueno;Paratebueno;Cundinamarca;Colombia
+8/06/2025 18:42;4573;-733233;10;4,2;mb;8;114;103;116;us;us7000q887;20/08/2025 11:09;earthquake;852;1983;215;6;reviewed;us;us;7 km NNE of Medina;Medina;Cundinamarca;Colombia
+8/06/2025 17:43;45116;-730916;10;4,8;mb;53;106;1269;86;us;us6000qj2c;20/08/2025 11:08;earthquake;454;1846;44;158;reviewed;us;us;15 km WSW of Barranca de Upía;Barranca de Upía;Cundinamarca;Colombia
+8/06/2025 14:14;45276;-731571;10;4,3;mb;36;77;1202;61;us;us7000q87x;20/08/2025 11:09;earthquake;765;1911;111;23;reviewed;us;us;17 km NNE of Paratebueno;Paratebueno;Cundinamarca;Colombia
+8/06/2025 12:45;43699;-732403;10;4,5;mb;59;62;1176;7;us;us6000qizg;20/08/2025 11:08;earthquake;765;1898;87;39;reviewed;us;us;2 km WSW of Paratebueno;Paratebueno;Cundinamarca;Colombia
+8/06/2025 12:26;44094;-732733;10;4,2;mb;18;115;113;98;us;us7000q87v;20/08/2025 11:09;earthquake;961;1908;147;13;reviewed;us;us;7 km WNW of Paratebueno;Paratebueno;Cundinamarca;Colombia
+8/06/2025 11:30;44323;-73328;10;4,9;mb;102;69;1071;71;us;us6000qiys;20/08/2025 11:08;earthquake;859;1868;25;485;reviewed;us;us;8 km SSE of Medina;Medina;Cundinamarca;Colombia
+8/06/2025 11:24;4351;-73197;10;4,2;mb;13;116;1223;78;us;us7000q87t;20/08/2025 11:09;earthquake;1089;1946;263;7;reviewed;us;us;3 km SE of Paratebueno;Paratebueno;Cundinamarca;Colombia
+8/06/2025 9:00;44747;-732145;10;4,2;mb;15;68;1163;96;us;us7000q87n;20/08/2025 11:09;earthquake;729;1471;264;6;reviewed;us;us;10 km N of Paratebueno;Paratebueno;Cundinamarca;Colombia
+8/06/2025 8:44;45212;-730907;10;4,4;mb;13;185;1268;85;us;us7000q87l;20/08/2025 11:09;earthquake;942;1994;31;5;reviewed;us;us;14 km WSW of Barranca de Upía;Barranca de Upía;Cundinamarca;Colombia
+8/06/2025 8:37;43802;-731981;10;4,7;mb;65;63;1211;115;us;us6000qiy2;20/08/2025 11:08;earthquake;819;579;72;59;reviewed;us;us;1 km ENE of Paratebueno;Paratebueno;Cundinamarca;Colombia
+8/06/2025 8:08;44852;-731248;9;6,3;mww;163;21;1245;89;us;us6000qixr;21/08/2026 13:44;earthquake;745;1738;32;96;reviewed;us;us;15 km NE of Paratebueno;Paratebueno;Cundinamarca;Colombia
+6/06/2025 13:48;69045;-730855;155,58;4,1;mb;94;90;2387;78;us;us6000qlh3;20/08/2025 11:09;earthquake;714;7969;6;81;reviewed;us;us;10 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+30/05/2025 3:17;69583;-731465;149,93;4,1;mb;31;156;2403;86;us;us6000qk3r;16/08/2025 16:54;earthquake;976;11607;114;21;reviewed;us;us;11 km WSW of Piedecuesta;Piedecuesta;Santander;Colombia
+22/05/2025 23:56;33141;-77507;35;4,8;mwr;53;101;2413;92;us;us7000q10j;13/08/2025 10:14;earthquake;548;1924;83;14;reviewed;us;us;62 km NNE of Timbiquí;Timbiquí;Cauca;Colombia
+18/05/2025 1:17;40695;-754801;10;4,3;mb;35;100;1389;124;us;us7000pzz7;25/07/2025 12:06;earthquake;834;1883;98;29;reviewed;us;us;7 km W of Playarrica;Playarrica;Tolima;Colombia
+17/05/2025 4:41;68592;-731237;147,14;4;mb;55;117;961;58;us;us6000qgwk;25/07/2025 12:06;earthquake;842;5662;8;42;reviewed;us;us;14 km NNW of Jordán;Jordán;Santander;Colombia
+11/05/2025 5:41;7327;-737849;91,76;4,6;mb;229;72;1587;96;us;us7000pymq;24/07/2025 16:30;earthquake;585;7176;27;415;reviewed;us;us;12 km E of Puerto Wilches;Puerto Wilches;Santander;Colombia
+7/05/2025 9:41;69246;-730749;152,49;4;mb;37;160;2409;71;us;us7000q0uw;24/07/2025 16:30;earthquake;966;7378;1;27;reviewed;us;us;7 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+4/05/2025 12:52;73789;-771646;41,44;4,5;mb;52;96;1667;85;us;us7000px4d;12/07/2025 11:30;earthquake;683;8024;86;39;reviewed;us;us;8 km SW of Riosucio;Riosucio;Choco;Colombia
+23/04/2025 21:53;45494;-772849;35;4,3;mb;23;121;2968;104;us;us7000pumw;11/07/2025 10:46;earthquake;817;1943;106;25;reviewed;us;us;33 km NNE of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+23/04/2025 17:44;45795;-776254;38,26;4,8;mb;146;62;3304;6;us;us7000pum1;11/07/2025 10:46;earthquake;722;5762;47;142;reviewed;us;us;45 km NW of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+18/04/2025 5:31;67231;-731046;171,9;4,8;mww;178;46;2224;6;us;us6000q6zz;26/06/2025 19:34;earthquake;826;5434;78;16;reviewed;us;us;1 km SW of Jordán;Jordán;Santander;Colombia
+18/04/2025 3:48;68098;-730927;157,84;4,7;mww;80;82;2303;9;us;us6000q6zq;26/06/2025 19:34;earthquake;756;6797;93;11;reviewed;us;us;8 km N of Jordán;Jordán;Santander;Colombia
+9/04/2025 7:41;44562;-756179;164,81;4,2;mb;13;121;4301;28;us;us6000q4wr;14/06/2025 13:26;earthquake;1113;1064;305;3;reviewed;us;us;8 km SSE of Calarcá;Calarcá;Quindio;Colombia
+6/04/2025 1:38;71159;-730956;154,71;4,2;mb;33;233;3005;85;us;us6000q6rh;9/06/2025 8:38;earthquake;115;10894;83;40;reviewed;us;us;2 km ESE of Bucaramanga;Bucaramanga;Santander;Colombia
+31/03/2025 21:04;47022;-760962;99,65;4,5;mb;89;99;4136;76;us;us7000pp5r;6/06/2025 16:12;earthquake;865;7939;61;79;reviewed;us;us;3 km SE of Argelia;Argelia;Valle del Cauca;Colombia
+26/03/2025 12:15;66999;-729498;167;4,3;mb;74;39;813;75;us;us7000pmup;6/06/2025 16:12;earthquake;82;4774;52;107;reviewed;us;us;6 km SSE of Cepitá;Cepitá;Santander;Colombia
+25/03/2025 17:08;25566;-78869;10;4,5;mb;36;136;2124;94;us;us6000q3rc;29/05/2025 12:36;earthquake;569;1898;136;16;reviewed;us;us;46 km W of Mosquera;Mosquera;Cundinamarca;Colombia
+24/03/2025 16:43;67029;-730438;163,33;4,4;mb;42;39;806;73;us;us6000q3pn;29/05/2025 12:36;earthquake;821;7278;1;29;reviewed;us;us;2 km WNW of Aratoca;Aratoca;Santander;Colombia
+15/03/2025 4:19;66997;-731497;160,68;4,5;mb;57;113;805;87;us;us6000pz0i;17/05/2025 14:19;earthquake;1083;7185;34;253;reviewed;us;us;4 km NE of Villanueva;Villanueva;Santander;Colombia
+10/03/2025 2:57;45564;-766012;122,31;4,5;mb;54;61;1943;58;us;us6000pxx4;16/05/2025 12:30;earthquake;76;86;79;47;reviewed;us;us;11 km SSE of Sipí;Sipí;Choco;Colombia
+5/03/2025 19:31;68782;-731015;151,02;4,2;mb;11;96;979;81;us;us6000px4q;16/05/2025 12:30;earthquake;501;5771;305;3;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+1/03/2025 4:38;2871;-794812;10;5;mww;71;138;2729;91;us;us6000pw9c;20/05/2025 21:06;earthquake;791;1879;73;18;reviewed;us;us;121 km WNW of Mosquera;Mosquera;Cundinamarca;Colombia
+20/02/2025 4:47;99369;-743462;42,37;4,2;mb;23;65;822;76;us;us7000pex2;6/05/2025 16:39;earthquake;568;703;236;5;reviewed;us;us;15 km NNE of Nueva Granada;Nueva Granada;Magdalena;Colombia
+17/02/2025 10:48;67251;-731606;161,19;4,6;mb;79;82;831;66;us;us7000pe90;2/05/2025 11:26;earthquake;1271;9985;38;206;reviewed;us;us;6 km NNE of Villanueva;Villanueva;Santander;Colombia
+12/02/2025 12:26;42294;-786675;10;4,8;mww;114;70;2923;67;us;us7000pd4n;2/05/2025 11:26;earthquake;674;1866;54;33;reviewed;us;us;144 km W of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+6/02/2025 16:03;67282;-730557;156,31;4,5;mb;43;61;831;51;us;us7000pbxz;26/04/2025 9:47;earthquake;774;7553;77;51;reviewed;us;us;4 km E of Jordán;Jordán;Santander;Colombia
+30/01/2025 0:03;66984;-730999;160,53;4,6;mb;150;45;801;68;us;us7000p9zc;15/04/2025 15:55;earthquake;805;5049;38;210;reviewed;us;us;3 km S of Jordán;Jordán;Santander;Colombia
+26/01/2025 10:32;66868;-731248;162,15;4,5;mb;43;81;79;45;us;us6000pmg0;8/04/2025 17:01;earthquake;834;7348;46;136;reviewed;us;us;5 km ENE of Villanueva;Villanueva;Santander;Colombia
+19/01/2025 1:28;75187;-747977;75,46;4,5;mb;44;101;1506;72;us;us6000pl25;29/03/2025 17:12;earthquake;635;7873;83;42;reviewed;us;us;8 km ENE of Zaragoza;Zaragoza;Antioquia;Colombia
+10/01/2025 3:14;59461;-774683;18;5,6;mww;81;91;1944;65;us;us6000pj4s;20/03/2025 15:54;earthquake;709;1851;52;36;reviewed;us;us;31 km SSW of Bahía Solano;Bahía Solano;Choco;Colombia
+8/01/2025 22:33;71274;-728631;176,94;4,3;mb;64;35;1246;76;us;us6000pisv;20/03/2025 15:54;earthquake;787;8651;8;45;reviewed;us;us;13 km SE of Tona;Tona;Santander;Colombia
+4/01/2025 3:17;45472;-763159;51,99;4,7;mb;83;110;1811;7;us;us6000phtp;17/03/2025 16:34;earthquake;785;778;65;71;reviewed;us;us;9 km WNW of El Dovio;El Dovio;Valle del Cauca;Colombia
+2/01/2025 10:46;67993;-730647;155,66;4,2;mb;13;97;901;59;us;us6000pjzy;17/03/2025 16:34;earthquake;53;9552;236;8;reviewed;us;us;8 km NNE of Jordán;Jordán;Santander;Colombia
+31/12/2024 3:59;115228;-733585;10;4,5;mb;47;37;921;128;us;us6000pgmd;8/03/2025 17:39;earthquake;567;1896;121;21;reviewed;us;us;28 km N of Dibulla;Dibulla;La Guajira;Colombia
+25/12/2024 19:52;73229;-75298;52,19;5;mww;190;32;1148;82;us;us6000pfmi;8/03/2025 17:39;earthquake;53;5242;66;22;reviewed;us;us;10 km ENE of Valdivia;Valdivia;Antioquia;Colombia
+24/12/2024 15:33;63181;-748321;74;4,9;mb;80;59;704;75;us;us6000pfhr;8/03/2025 17:39;earthquake;793;5683;37;222;reviewed;us;us;13 km SW of Caracolí;Caracolí;Antioquia;Colombia
+24/12/2024 1:39;71166;-757263;49,83;4,5;mb;35;97;94;97;us;us6000pfet;8/03/2025 17:39;earthquake;657;9486;131;20;reviewed;us;us;7 km SE of Ituango;Ituango;Antioquia;Colombia
+12/12/2024 13:11;63981;-730625;189,05;4,4;mb;35;82;503;84;us;us7000ny84;18/02/2025 15:02;earthquake;78;5408;95;32;reviewed;us;us;9 km NE of Ocamonte;Ocamonte;Santander;Colombia
+11/12/2024 1:43;67518;-731458;157,62;4,2;mb;26;40;856;8;us;us6000ph1t;18/02/2025 15:02;earthquake;742;7087;176;10;reviewed;us;us;5 km WNW of Jordán;Jordán;Santander;Colombia
+4/12/2024 13:02;52739;-736689;158,03;4,2;mb;50;122;847;66;us;us7000nvyp;15/02/2025 13:29;earthquake;801;5715;94;32;reviewed;us;us;5 km SE of Lenguazaque;Lenguazaque;Cundinamarca;Colombia
+4/12/2024 1:34;67566;-730416;157,07;4,1;mb;32;38;859;96;us;us7000nvtk;15/02/2025 13:29;earthquake;696;6695;135;15;reviewed;us;us;6 km ENE of Jordán;Jordán;Santander;Colombia
+29/11/2024 23:22;66663;-730851;162,2;4,4;mb;51;59;769;72;us;us7000nv23;1/02/2025 19:53;earthquake;904;738;79;46;reviewed;us;us;7 km NNW of Curití;Curití;Santander;Colombia
+24/11/2024 23:51;67154;-730998;160,78;4,6;mb;73;38;818;61;us;us6000p7iv;1/02/2025 19:50;earthquake;758;7482;34;257;reviewed;us;us;1 km SSW of Jordán;Jordán;Santander;Colombia
+21/11/2024 19:03;71019;-729334;183,22;4,3;mb;40;46;1211;75;us;us6000p6wi;30/01/2025 12:00;earthquake;772;8504;9;35;reviewed;us;us;11 km SSE of Tona;Tona;Santander;Colombia
+16/11/2024 13:25;68484;-731054;147,61;4,3;mb;69;68;95;84;us;us7000ns6u;26/01/2025 11:30;earthquake;68;8508;7;59;reviewed;us;us;12 km N of Jordán;Jordán;Santander;Colombia
+12/11/2024 20:42;11035;-723377;10;4,1;mwr;15;82;744;91;us;us7000nrgp;26/01/2025 11:29;earthquake;546;1985;86;13;reviewed;us;us;31 km ESE of Albania;Albania;Zulia;Colombia
+10/11/2024 19:39;6851;-731198;151,45;4,2;mb;16;63;953;42;us;us7000nr2x;26/01/2025 11:29;earthquake;482;9472;216;6;reviewed;us;us;13 km NNW of Jordán;Jordán;Santander;Colombia
+4/11/2024 22:14;53197;-77462;31,25;5;mww;60;61;2109;67;us;us7000npzi;24/01/2025 14:51;earthquake;725;3823;73;18;reviewed;us;us;41 km NNW of Pizarro;Pizarro;Choco;Colombia
+29/10/2024 16:49;73271;-718678;10;4,7;mb;38;78;1868;77;us;us7000nnx8;16/01/2025 13:45;earthquake;579;1896;63;77;reviewed;us;us;44 km NE of Cubará;Cubará;Apure;Colombia
+28/10/2024 2:45;82334;-752195;59,29;4,4;mb;25;87;1294;86;us;us7000nrzm;16/01/2025 13:48;earthquake;379;10618;162;11;reviewed;us;us;12 km SW of Ayapel;Ayapel;Cordoba;Colombia
+28/10/2024 2:08;70174;-768664;10;4,6;mb;105;83;1562;64;us;us7000nnla;16/01/2025 13:44;earthquake;543;1871;52;111;reviewed;us;us;6 km NW of Murindó;Murindó;Choco;Colombia
+27/10/2024 23:03;67988;-729723;153,56;4,3;mb;40;41;907;75;us;us7000nnkf;16/01/2025 13:44;earthquake;799;7129;67;64;reviewed;us;us;4 km N of Cepitá;Cepitá;Santander;Colombia
+24/10/2024 15:31;54511;-783798;10;4,6;mb;60;121;293;76;us;us7000nmzv;4/01/2025 18:07;earthquake;708;19;84;43;reviewed;us;us;125 km WNW of Pizarro;Pizarro;Choco;Colombia
+16/10/2024 17:04;21028;-797589;10;4,7;mb;64;139;1216;75;us;us6000nz6y;26/12/2024 18:04;earthquake;427;1888;79;49;reviewed;us;us;112 km WNW of Tumaco;Tumaco;Nariño;Colombia
+8/10/2024 13:42;67111;-730424;153,62;4,3;mb;31;74;814;65;us;us7000nnts;23/12/2024 10:47;earthquake;85;6827;142;14;reviewed;us;us;3 km NW of Aratoca;Aratoca;Santander;Colombia
+6/10/2024 3:07;67626;-73075;154,22;4,2;mb;41;76;865;67;us;us6000nwur;14/12/2024 9:50;earthquake;915;6578;75;49;reviewed;us;us;4 km NE of Jordán;Jordán;Santander;Colombia
+4/10/2024 14:36;68784;-731242;147,57;4,2;mb;95;126;98;76;us;us6000nwlu;14/12/2024 9:50;earthquake;876;9899;6;79;reviewed;us;us;14 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+30/09/2024 22:44;87389;-728792;10;4,4;mb;15;63;2224;84;us;us7000nmfd;14/12/2024 9:51;earthquake;61;1964;267;4;reviewed;us;us;19 km NW of Tibú;Tibú;Norte de Santander;Colombia
+29/09/2024 2:05;67214;-731171;157,27;4,7;mb;49;40;824;72;us;us7000nh2v;6/12/2024 14:30;earthquake;881;6182;27;405;reviewed;us;us;2 km WSW of Jordán;Jordán;Santander;Colombia
+28/09/2024 14:13;117919;-734917;10;4,6;mb;39;106;147;78;us;us6000p020;6/12/2024 14:30;earthquake;873;1896;96;32;reviewed;us;us;60 km NNW of Dibulla;Dibulla;La Guajira;Colombia
+28/09/2024 14:12;118435;-734642;10;4,5;mb;55;47;1448;83;us;us7000nh0q;6/12/2024 14:30;earthquake;562;188;58;88;reviewed;us;us;65 km NNW of Dibulla;Dibulla;La Guajira;Colombia
+22/09/2024 2:21;67026;-731251;159,09;4,3;mb;40;98;806;64;us;us6000ntmm;23/11/2024 18:26;earthquake;879;658;9;36;reviewed;us;us;4 km SW of Jordán;Jordán;Santander;Colombia
+21/09/2024 19:58;53148;-736778;163,49;4,3;mb;38;104;824;97;us;us7000ngk9;23/11/2024 18:27;earthquake;884;7216;116;21;reviewed;us;us;3 km ENE of Lenguazaque;Lenguazaque;Cundinamarca;Colombia
+21/09/2024 16:31;67061;-730217;157,58;4,7;mb;57;136;811;53;us;us7000ng6u;23/11/2024 18:27;earthquake;1212;10112;83;44;reviewed;us;us;1 km NNW of Aratoca;Aratoca;Santander;Colombia
+19/09/2024 22:22;67359;-730129;161,79;4,1;mb;51;129;841;101;us;us6000nu30;23/11/2024 18:27;earthquake;982;7336;83;40;reviewed;us;us;4 km N of Aratoca;Aratoca;Santander;Colombia
+12/09/2024 3:34;66837;-748171;76,38;4,4;mwr;51;61;86;79;us;us7000nd8m;21/11/2024 17:58;earthquake;798;9233;89;12;reviewed;us;us;2 km ENE of Yalí;Yalí;Antioquia;Colombia
+11/09/2024 19:17;66603;-73007;165,51;4,2;mb;14;86;767;28;us;us6000nymq;21/11/2024 17:58;earthquake;1047;7356;199;7;reviewed;us;us;3 km SSE of Aratoca;Aratoca;Santander;Colombia
+30/08/2024 22:10;66974;-730714;160,69;4,4;mb;72;59;8;79;us;us6000nnti;9/11/2024 16:18;earthquake;904;7165;35;229;reviewed;us;us;4 km SE of Jordán;Jordán;Santander;Colombia
+27/08/2024 22:04;66946;-730791;164,1;4,5;mb;75;38;797;63;us;us6000nn5s;9/11/2024 16:18;earthquake;792;5848;3;325;reviewed;us;us;4 km SSE of Jordán;Jordán;Santander;Colombia
+27/08/2024 19:49;39409;-780653;10;4,5;mb;23;144;2744;132;us;us6000nn57;9/11/2024 16:18;earthquake;866;1984;171;10;reviewed;us;us;85 km WSW of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+20/08/2024 1:52;48749;-726496;10;4,5;mb;39;77;1099;121;us;us7000nday;2/11/2024 16:29;earthquake;745;193;104;27;reviewed;us;us;18 km NW of Ubalá;Ubalá;Casanare;Colombia
+13/08/2024 23:14;67459;-730255;162,09;4,3;mb;43;69;85;74;us;us6000njzx;26/10/2024 10:47;earthquake;682;6065;62;74;reviewed;us;us;5 km W of Cepitá;Cepitá;Santander;Colombia
+3/08/2024 5:31;68;-731113;150,29;4,1;mb;33;118;902;45;us;us6000nhvf;11/10/2024 14:39;earthquake;1055;8924;99;28;reviewed;us;us;7 km NNW of Jordán;Jordán;Santander;Colombia
+1/08/2024 7:35;22475;-797656;10;4;mb;28;80;132;104;us;us7000n7y1;11/10/2024 14:39;earthquake;3;1841;233;5;reviewed;us;us;119 km WNW of Tumaco;Tumaco;Nariño;Colombia
+30/07/2024 0:32;33996;-743109;10;4,2;mb;15;129;2762;127;us;us6000ngu2;11/10/2024 14:39;earthquake;593;1737;186;8;reviewed;us;us;29 km W of Mesetas;Mesetas;Meta;Colombia
+26/07/2024 13:54;67791;-730808;162,67;4,3;mb;59;55;881;69;us;us6000ng7y;8/10/2024 16:49;earthquake;724;4942;87;40;reviewed;us;us;5 km NNE of Jordán;Jordán;Santander;Colombia
+17/07/2024 20:09;66727;-729858;160,31;4,5;mb;51;93;781;61;us;us7000mzxt;28/09/2024 17:42;earthquake;1174;10112;84;41;reviewed;us;us;4 km ESE of Aratoca;Aratoca;Santander;Colombia
+17/07/2024 0:35;67526;-73012;154,52;4;mb;34;60;857;78;us;us6000ngp7;28/09/2024 17:41;earthquake;751;736;122;18;reviewed;us;us;4 km W of Cepitá;Cepitá;Santander;Colombia
+10/07/2024 4:53;37915;-785829;10;4,7;mb;99;121;2496;62;us;us7000my8v;20/09/2024 11:00;earthquake;901;1883;57;94;reviewed;us;us;142 km N of Mosquera;Mosquera;Cundinamarca;Colombia
+8/07/2024 3:36;68439;-730492;151,92;4,1;mb;21;97;946;95;us;us7000mzkf;20/09/2024 11:00;earthquake;516;5759;175;9;reviewed;us;us;12 km NW of Cepitá;Cepitá;Santander;Colombia
+29/06/2024 22:46;66903;-730526;160,6;4,8;mb;84;31;793;55;us;us6000n9a9;4/09/2024 16:57;earthquake;414;5638;23;607;reviewed;us;us;3 km W of Aratoca;Aratoca;Santander;Colombia
+29/06/2024 4:16;67902;-730799;151,81;4,3;mb;41;97;892;93;us;us6000n957;4/09/2024 16:57;earthquake;938;9365;52;105;reviewed;us;us;6 km NNE of Jordán;Jordán;Santander;Colombia
+26/06/2024 18:41;46492;-727316;9,72;4,4;mb;38;77;1284;66;us;us6000na3m;4/09/2024 16:57;earthquake;728;4736;108;25;reviewed;us;us;24 km WSW of Ubalá;Ubalá;Casanare;Colombia
+25/06/2024 14:03;6848;-770329;41,2;4,6;mwr;96;39;1631;72;us;us6000n84y;4/09/2024 16:57;earthquake;616;6039;78;16;reviewed;us;us;27 km WSW of Murindó;Murindó;Choco;Colombia
+7/06/2024 10:27;2946;-79319;10;4;mb;19;139;1709;74;us;us7000mr0t;16/08/2024 16:59;earthquake;649;1933;232;7;reviewed;us;us;107 km WNW of Mosquera;Mosquera;Cundinamarca;Colombia
+7/06/2024 2:55;43193;-759119;11,72;4,5;mb;49;92;1898;1;us;us7000mqwq;16/08/2024 16:59;earthquake;787;5061;81;44;reviewed;us;us;6 km NNE of Sevilla;Sevilla;Valle del Cauca;Colombia
+3/06/2024 17:48;68081;-731092;159,34;4,2;mb;22;128;91;77;us;us7000mrix;16/08/2024 16:59;earthquake;776;8506;158;11;reviewed;us;us;8 km N of Jordán;Jordán;Santander;Colombia
+3/06/2024 6:52;42454;-735039;9,97;4,4;mb;19;127;1689;117;us;us7000mrik;16/08/2024 16:59;earthquake;972;6151;24;5;reviewed;us;us;3 km SW of Cumaral;Cumaral;Meta;Colombia
+30/05/2024 9:37;68079;-729871;155,39;4,4;mb;20;137;914;56;us;us7000mqnd;6/08/2024 15:32;earthquake;1029;8545;19;8;reviewed;us;us;6 km NNW of Cepitá;Cepitá;Santander;Colombia
+27/05/2024 0:12;66912;-730834;159,32;4,6;mb;133;78;793;59;us;us6000n17w;6/08/2024 15:32;earthquake;784;6653;27;421;reviewed;us;us;4 km SSE of Jordán;Jordán;Santander;Colombia
+26/05/2024 5:24;26312;-790382;10;4,3;mb;27;130;1343;87;us;us6000n12v;5/08/2024 21:10;earthquake;473;1973;201;7;reviewed;us;us;66 km WNW of Mosquera;Mosquera;Cundinamarca;Colombia
+22/05/2024 3:44;25004;-790534;10;4,7;mb;68;74;1217;103;us;us6000n08a;5/08/2024 21:10;earthquake;665;1814;75;53;reviewed;us;us;66 km W of Mosquera;Mosquera;Cundinamarca;Colombia
+22/05/2024 0:34;25123;-790178;10;5;mww;107;73;1223;98;us;us6000n077;5/08/2024 21:10;earthquake;555;1353;73;18;reviewed;us;us;63 km W of Mosquera;Mosquera;Cundinamarca;Colombia
+21/05/2024 23:51;41934;-790209;10;4,5;mb;32;80;2887;58;us;us6000n073;5/08/2024 21:10;earthquake;787;1795;15;13;reviewed;us;us;183 km W of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+21/05/2024 4:58;68392;-765066;48,93;4,3;mb;32;155;1165;78;us;us6000n00i;5/08/2024 21:09;earthquake;477;101;99;29;reviewed;us;us;31 km SW of Dabeiba;Dabeiba;Antioquia;Colombia
+18/05/2024 2:42;68165;-730627;152,09;4,2;mb;23;72;918;54;us;us6000n0q5;26/07/2024 18:58;earthquake;536;10407;146;13;reviewed;us;us;9 km NNE of Jordán;Jordán;Santander;Colombia
+17/05/2024 20:43;67942;-730861;156,26;4,1;mb;31;40;896;82;us;us6000mzca;26/07/2024 18:58;earthquake;752;7367;174;9;reviewed;us;us;6 km N of Jordán;Jordán;Santander;Colombia
+12/05/2024 5:19;118345;-73492;10;4,9;mb;87;53;98;7;us;us6000my1s;20/07/2024 17:20;earthquake;421;1782;36;246;reviewed;us;us;65 km NNW of Dibulla;Dibulla;La Guajira;Colombia
+11/05/2024 20:01;118046;-735013;10;4,6;mb;47;57;953;95;us;us6000mxzf;20/07/2024 17:20;earthquake;413;1386;45;148;reviewed;us;us;62 km NNW of Dibulla;Dibulla;La Guajira;Colombia
+11/05/2024 12:25;78033;-748294;71,33;4,2;mb;39;69;1746;85;us;us6000mz6p;20/07/2024 17:20;earthquake;624;8523;107;26;reviewed;us;us;6 km WNW of San Carlos;San Carlos;Antioquia;Colombia
+6/05/2024 10:01;80283;-753563;54,49;4,5;mwr;111;43;1833;6;us;us6000mwpt;20/07/2024 17:20;earthquake;648;224;89;12;reviewed;us;us;8 km NE of Montelíbano;Montelíbano;Cordoba;Colombia
+5/05/2024 1:11;20194;-76027;12,01;4,4;mb;23;171;2184;56;us;us6000mwfa;14/07/2024 22:57;earthquake;808;5829;219;6;reviewed;us;us;3 km NNE of Saladoblanco;Saladoblanco;Huila;Colombia
+2/05/2024 2:34;11436;-728008;10;4,4;mb;27;63;835;64;us;us6000mvna;14/07/2024 22:58;earthquake;288;1878;117;21;reviewed;us;us;16 km SE of Riohacha;Riohacha;La Guajira;Colombia
+30/04/2024 10:44;49949;-760626;126,48;4,6;mb;27;64;1301;6;us;us6000mv7u;14/07/2024 22:58;earthquake;973;7747;125;21;reviewed;us;us;6 km W of La Celia;La Celia;Valle del Cauca;Colombia
+17/04/2024 15:50;66333;-730152;161,85;4,4;mb;106;99;739;75;us;us7000mcrm;25/06/2024 16:02;earthquake;557;5759;6;81;reviewed;us;us;6 km ENE of Curití;Curití;Santander;Colombia
+7/04/2024 7:28;68911;-730577;150,84;4;mb;22;73;992;97;us;us7000mcg1;12/06/2024 16:52;earthquake;848;7735;15;12;reviewed;us;us;10 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+5/04/2024 7:07;66676;-729997;166,42;4,5;mb;44;66;774;68;us;us7000ma4w;12/06/2024 16:51;earthquake;896;5882;48;127;reviewed;us;us;3 km SE of Aratoca;Aratoca;Santander;Colombia
+2/04/2024 21:32;68504;-731701;157,27;4,5;mb;20;72;955;41;us;us7000mbfp;12/06/2024 16:51;earthquake;675;855;204;7;reviewed;us;us;11 km ENE of Zapatoca;Zapatoca;Santander;Colombia
+2/04/2024 18:16;54555;-723758;10;4,9;mb;183;54;827;69;us;us7000m9g0;12/06/2024 16:51;earthquake;559;1857;43;166;reviewed;us;us;13 km N of Yopal;Yopal;Casanare;Colombia
+31/03/2024 20:09;60205;-719313;10;4,3;mb;16;127;1153;81;us;us7000masg;12/06/2024 16:51;earthquake;952;1962;154;12;reviewed;us;us;23 km SW of Municipio Hato Corozal;Municipio Hato Corozal;Casanare;Colombia
+29/03/2024 8:58;68548;-73061;151,05;4;mb;52;113;956;107;us;us7000m9ww;1/06/2024 16:55;earthquake;803;7568;1;27;reviewed;us;us;14 km NNE of Jordán;Jordán;Santander;Colombia
+28/03/2024 23:38;54232;-771372;41,56;4,4;mb;27;136;1772;47;us;us7000m8pn;1/06/2024 16:55;earthquake;524;8141;112;23;reviewed;us;us;20 km WSW of Pie de Pató;Pie de Pató;Choco;Colombia
+28/03/2024 16:36;68313;-730523;156,7;4,3;mb;34;74;933;75;us;us7000m9p7;1/06/2024 16:55;earthquake;888;101;119;20;reviewed;us;us;11 km NNE of Jordán;Jordán;Santander;Colombia
+16/03/2024 13:58;67884;-730908;159,68;4,3;mb;28;130;89;99;us;us6000mk83;18/05/2024 16:24;earthquake;736;7668;137;15;reviewed;us;us;6 km N of Jordán;Jordán;Santander;Colombia
+15/03/2024 1:19;6829;-730474;152,66;4;mb;22;74;931;11;us;us6000mk1f;18/05/2024 16:24;earthquake;896;8764;149;12;reviewed;us;us;11 km NW of Cepitá;Cepitá;Santander;Colombia
+6/03/2024 16:12;68523;-731205;146,03;4,4;mb;44;127;954;74;us;us7000m3sa;15/05/2024 12:35;earthquake;718;7577;112;23;reviewed;us;us;13 km NNW of Jordán;Jordán;Santander;Colombia
+4/03/2024 17:25;67417;-762688;37,52;4,4;mb;19;142;916;49;us;us7000m46g;15/05/2024 12:35;earthquake;797;9172;17;10;reviewed;us;us;15 km WSW of Frontino;Frontino;Antioquia;Colombia
+28/02/2024 2:05;63253;-755912;17,79;4,6;mb;56;101;147;81;us;us6000mfkh;8/06/2025 8:21;earthquake;623;432;85;43;reviewed;us;us;3 km WSW of Bello;Bello;Antioquia;Colombia
+27/02/2024 17:41;63284;-767456;51,88;4,5;mb;20;124;1217;78;us;us6000mfie;10/05/2024 16:25;earthquake;385;8718;192;8;reviewed;us;us;29 km SSE of Bellavista;Bellavista;Antioquia;Colombia
+25/02/2024 2:51;68709;-762307;49,26;4,5;mb;53;75;971;47;us;us7000m1gm;2/05/2024 10:50;earthquake;755;742;8;49;reviewed;us;us;7 km WSW of Uramita;Uramita;Antioquia;Colombia
+24/02/2024 18:49;67838;-730243;157,16;4,4;mb;31;57;887;95;us;us6000mfut;2/05/2024 10:50;earthquake;747;5301;143;14;reviewed;us;us;6 km WNW of Cepitá;Cepitá;Santander;Colombia
+23/02/2024 9:45;67778;-730481;156,01;4,5;mb;27;104;88;7;us;us6000mfn5;2/05/2024 10:50;earthquake;715;6455;171;10;reviewed;us;us;7 km NE of Jordán;Jordán;Santander;Colombia
+23/02/2024 7:44;122395;-734052;10;4,4;mb;20;75;1337;111;us;us6000mfn8;2/05/2024 10:50;earthquake;355;1908;24;5;reviewed;us;us;94 km NW of Riohacha;Riohacha;La Guajira;Colombia
+22/02/2024 19:47;73556;-754767;53,05;4,5;mb;51;79;1158;72;us;us7000m0zk;2/05/2024 10:50;earthquake;594;5422;118;21;reviewed;us;us;11 km NW of Valdivia;Valdivia;Antioquia;Colombia
+21/02/2024 23:05;66747;-730893;162;4,6;mb;136;79;777;77;us;us7000m0pr;27/05/2024 0:19;earthquake;848;6971;37;222;reviewed;us;us;6 km S of Jordán;Jordán;Santander;Colombia
+20/02/2024 18:23;67875;-730181;156,39;4,6;mb;87;38;892;58;us;us7000m0g8;2/05/2024 10:50;earthquake;773;6267;66;69;reviewed;us;us;6 km NW of Cepitá;Cepitá;Santander;Colombia
+19/02/2024 20:38;66953;-730637;165,78;4,6;mb;80;27;798;65;us;us7000m0a2;2/05/2024 10:50;earthquake;805;5462;31;302;reviewed;us;us;4 km W of Aratoca;Aratoca;Santander;Colombia
+18/02/2024 12:42;83606;-770365;50,38;4,4;mb;45;110;825;64;us;us7000m01m;24/04/2024 9:42;earthquake;67;8493;98;30;reviewed;us;us;28 km WSW of Necoclí;Necoclí;Antioquia;Colombia
+15/02/2024 13:27;70504;-770477;38,65;4,7;mb;52;91;1734;62;us;us7000lzgv;24/04/2024 9:42;earthquake;671;808;8;47;reviewed;us;us;26 km WNW of Murindó;Murindó;Choco;Colombia
+10/02/2024 8:57;4786;-759499;89,29;4,2;mb;13;121;1457;89;us;us7000lyam;20/04/2024 14:35;earthquake;777;8455;263;4;reviewed;us;us;5 km ESE of Ansermanuevo;Ansermanuevo;Valle del Cauca;Colombia
+4/02/2024 8:04;6877;-730575;151,98;4,1;mb;27;95;978;69;us;us7000lwxf;13/04/2024 14:37;earthquake;581;4934;165;10;reviewed;us;us;12 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+28/01/2024 3:17;62056;-775807;21,8;4,5;mb;135;53;204;55;us;us7000luhv;30/03/2024 17:34;earthquake;719;4901;45;147;reviewed;us;us;19 km W of Bahía Solano;Bahía Solano;Choco;Colombia
+28/01/2024 1:10;57787;-77752;17,4;4,4;mb;42;86;2249;48;us;us7000lwas;30/03/2024 17:35;earthquake;425;4815;102;28;reviewed;us;us;53 km W of Nuquí;Nuquí;Choco;Colombia
+22/01/2024 14:05;68566;-730861;152,43;4,7;mb;57;82;958;59;us;us7000lt0d;30/03/2024 17:32;earthquake;71;4035;89;39;reviewed;us;us;13 km N of Jordán;Jordán;Santander;Colombia
+21/01/2024 12:19;67852;-730286;154,11;5;mww;95;29;889;8;us;us6000m59q;1/12/2024 14:39;earthquake;73;5527;83;14;reviewed;us;us;6 km WNW of Cepitá;Cepitá;Santander;Colombia
+19/01/2024 6:47;48447;-759969;76,31;4,3;mb;22;121;1416;59;us;us6000m4n6;29/03/2024 12:37;earthquake;467;7347;308;3;reviewed;us;us;5 km N of Ansermanuevo;Ansermanuevo;Valle del Cauca;Colombia
+19/01/2024 6:26;47429;-758481;65,07;5,6;mww;196;37;1473;73;us;us6000m4n2;29/03/2024 12:37;earthquake;703;4294;47;43;reviewed;us;us;7 km E of Cartago;Cartago;Valle del Cauca;Colombia
+15/01/2024 6:23;68935;-731499;151,32;4,3;mb;24;124;997;82;us;us6000m3qt;29/03/2024 12:37;earthquake;404;6697;218;6;reviewed;us;us;14 km E of Betulia;Betulia;Santander;Colombia
+7/01/2024 3:20;68916;-759386;10;3,6;ml;16;87;806;59;us;us6000m41c;9/03/2024 16:40;earthquake;591;1993;128;8;reviewed;us;us;14 km WNW of Sabanalarga;Sabanalarga;Antioquia;Colombia
+16/12/2023 22:16;68023;-730045;154,82;4,5;mb;60;71;907;103;us;us7000ljm4;27/02/2024 17:56;earthquake;766;6809;41;177;reviewed;us;us;6 km NNW of Cepitá;Cepitá;Santander;Colombia
+15/12/2023 15:24;72102;-762392;46,55;4,4;mwr;154;66;1234;94;us;us7000ljdl;17/02/2024 17:43;earthquake;742;5851;93;11;reviewed;us;us;22 km E of Mutatá;Mutatá;Antioquia;Colombia
+15/12/2023 12:15;90844;-752416;37,85;4,5;mwr;67;45;809;101;us;us7000ljcs;17/02/2024 17:43;earthquake;418;5376;8;15;reviewed;us;us;5 km WSW of El Roble;El Roble;Sucre;Colombia
+11/12/2023 2:36;9582;-775751;95,26;4,6;mb;55;143;5584;43;us;us7000li20;17/02/2024 17:43;earthquake;951;9611;74;54;reviewed;us;us;4 km NNW of Gualmatán;Gualmatán;Nariño;Colombia
+26/11/2023 9:30;42967;-760903;145;4,2;mb;24;77;1963;96;us;us6000lqvk;6/02/2024 16:53;earthquake;686;6677;128;17;reviewed;us;us;11 km S of Zarzal;Zarzal;Valle del Cauca;Colombia
+25/11/2023 19:47;68472;-731152;150,46;4;mb;26;127;949;104;us;us7000lev6;6/02/2024 16:53;earthquake;647;6897;143;13;reviewed;us;us;12 km N of Jordán;Jordán;Santander;Colombia
+23/11/2023 22:43;68801;-731356;148,79;4,4;mb;35;121;983;101;us;us6000lqdx;1/02/2024 10:13;earthquake;783;8228;112;23;reviewed;us;us;15 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+18/11/2023 18:32;25126;-797082;10;4,5;mwr;48;131;1486;107;us;us6000lpdj;26/01/2024 11:37;earthquake;757;189;63;24;reviewed;us;us;127 km WNW of Salahonda;Salahonda;Nariño;Colombia
+10/11/2023 2:48;43431;-734809;10;4,5;mb;50;81;1589;63;us;us7000la0s;13/01/2024 18:11;earthquake;764;1887;84;42;reviewed;us;us;8 km N of Cumaral;Cumaral;Cundinamarca;Colombia
+8/11/2023 10:56;70146;-733307;129,26;4,3;mb;24;59;1142;87;us;us7000lara;13/01/2024 18:11;earthquake;815;5516;177;9;reviewed;us;us;13 km NNW of Betulia;Betulia;Santander;Colombia
+6/11/2023 15:58;43276;-764337;85,06;4,3;mb;26;65;2059;91;us;us7000la32;13/01/2024 18:11;earthquake;777;7361;218;6;reviewed;us;us;17 km NW of Trujillo;Trujillo;Valle del Cauca;Colombia
+4/11/2023 6:00;67014;-730657;159,02;4,6;mb;100;38;804;68;us;us7000l8uy;10/01/2024 1:01;earthquake;922;708;29;354;reviewed;us;us;4 km SE of Jordán;Jordán;Santander;Colombia
+31/10/2023 4:52;44451;-762619;141,96;4,2;mb;37;97;1882;36;us;us7000l7qm;18/01/2024 16:10;earthquake;868;6065;104;28;reviewed;us;us;7 km SSW of El Dovio;El Dovio;Valle del Cauca;Colombia
+30/10/2023 6:44;67196;-729917;160,35;4,4;mb;65;82;827;55;us;us7000l7iu;18/01/2024 16:10;earthquake;803;7522;69;60;reviewed;us;us;4 km NE of Aratoca;Aratoca;Santander;Colombia
+29/10/2023 16:34;68086;-730954;156,55;4,3;mb;22;126;91;71;us;us7000l8e3;10/01/2024 1:01;earthquake;803;892;138;15;reviewed;us;us;8 km N of Jordán;Jordán;Santander;Colombia
+21/10/2023 18:39;76175;-750255;59,03;4,5;mb;70;40;1503;76;us;us6000lh80;26/12/2023 16:24;earthquake;616;674;94;33;reviewed;us;us;22 km NW of Zaragoza;Zaragoza;Antioquia;Colombia
+19/10/2023 0:39;67914;-730949;157,65;4,2;mb;22;74;893;78;us;us7000l5zr;26/12/2023 16:24;earthquake;707;7049;167;10;reviewed;us;us;6 km N of Jordán;Jordán;Santander;Colombia
+12/10/2023 22:49;68699;-731439;143,63;4,2;mb;33;125;973;99;us;us6000lgjt;16/12/2023 17:13;earthquake;874;1022;141;15;reviewed;us;us;14 km ENE of Zapatoca;Zapatoca;Santander;Colombia
+1/10/2023 17:42;7421;-770416;37,48;4,5;mb;37;97;1575;72;us;us6000lc5g;14/12/2023 16:26;earthquake;618;8835;102;28;reviewed;us;us;8 km ESE of Riosucio;Riosucio;Choco;Colombia
+19/09/2023 1:40;68044;-72971;154,79;4,3;mb;37;138;913;48;us;us7000kxen;18/01/2024 15:54;earthquake;84;8835;71;56;reviewed;us;us;5 km N of Cepit?;Cepit?;Santander;Colombia
+18/09/2023 5:02;7102;-721931;10;4,5;mb;49;62;1492;71;us;us7000kwfd;2/12/2023 18:01;earthquake;567;1824;69;62;reviewed;us;us;14 km NW of Cubará;Cubará;Norte de Santander;Colombia
+16/09/2023 8:29;673;-729926;157,78;4,9;mb;59;41;837;87;us;us7000kw6m;18/11/2023 17:29;earthquake;1066;6494;24;527;reviewed;us;us;3 km SW of Cepitá;Cepitá;Santander;Colombia
+15/09/2023 14:29;28041;-797139;10;4,4;mb;28;138;3715;71;us;us7000kwxt;18/11/2023 17:29;earthquake;966;1894;117;22;reviewed;us;us;144 km WNW of Mosquera;Mosquera;Cundinamarca;Colombia
+14/09/2023 9:25;52515;-767301;10;5,2;mww;101;59;1516;85;us;us7000kvqy;18/11/2023 17:29;earthquake;602;1808;6;27;reviewed;us;us;9 km S of El Cantón de San Pablo;El Cantón de San Pablo;Choco;Colombia
+14/09/2023 2:01;67906;-730327;158,81;5,1;mww;163;30;894;72;us;us7000kvnq;18/11/2023 17:29;earthquake;746;6035;65;23;reviewed;us;us;7 km WNW of Cepitá;Cepitá;Santander;Colombia
+13/09/2023 6:03;70591;-717897;10;4,2;mb;26;77;1731;95;us;us7000kwh1;18/11/2023 17:29;earthquake;516;1917;141;15;reviewed;us;us;29 km N of Fortul;Fortul;Arauca;Colombia
+12/09/2023 18:11;68017;-730819;153,48;4,3;mb;35;46;903;94;us;us7000kve4;18/11/2023 17:29;earthquake;759;6791;119;20;reviewed;us;us;7 km NNE of Jordán;Jordán;Santander;Colombia
+7/09/2023 3:53;67367;-730211;162,24;4,2;mb;81;107;841;72;us;us7000ktw5;17/11/2023 14:47;earthquake;81;6538;53;98;reviewed;us;us;4 km N of Aratoca;Aratoca;Santander;Colombia
+31/08/2023 21:19;51836;-766737;10;4,9;mb;72;66;1516;88;us;us7000ksjh;4/11/2023 16:36;earthquake;663;185;73;59;reviewed;us;us;2 km NNE of Istmina;Istmina;Choco;Colombia
+28/08/2023 23:06;70616;-772395;35;4,5;mb;36;92;1907;67;us;us7000krqy;4/11/2023 16:35;earthquake;397;1909;128;18;reviewed;us;us;44 km SSW of Riosucio;Riosucio;Choco;Colombia
+28/08/2023 0:12;69246;-731476;140,33;4,4;mb;37;124;1027;69;us;us7000krf7;4/11/2023 16:35;earthquake;715;9871;105;26;reviewed;us;us;12 km WSW of Piedecuesta;Piedecuesta;Santander;Colombia
+27/08/2023 16:45;53394;-766839;24,04;5,7;mww;304;54;1427;64;us;us7000kre0;19/01/2024 6:55;earthquake;6;3015;39;62;reviewed;us;us;5 km E of El Cantón de San Pablo;El Cantón de San Pablo;Choco;Colombia
+17/08/2023 20:15;43633;-73485;10;5;mb;80;69;961;81;us;us7000kp5l;21/08/2026 13:37;earthquake;532;1826;34;279;reviewed;us;us;10 km N of Cumaral;Cumaral;Cundinamarca;Colombia
+17/08/2023 12:40;42285;-736849;10;4,9;mb;95;70;882;104;us;us7000kp2s;27/10/2023 16:39;earthquake;582;1804;68;67;reviewed;us;us;11 km NW of Villavicencio;Villavicencio;Meta;Colombia
+17/08/2023 12:17;4258;-735289;10;5,6;mww;101;77;982;61;us;us7000kp2j;21/08/2026 13:35;earthquake;661;1776;89;12;reviewed;us;us;3 km E of Restrepo;Restrepo;Meta;Colombia
+17/08/2023 12:04;43463;-736199;10;6,1;mww;111;64;857;87;us;us7000kp2i;21/08/2026 13:29;earthquake;9;1789;63;24;reviewed;us;us;10 km E of El Calvario;El Calvario;Meta;Colombia
+17/08/2023 8:28;73186;-755964;52,25;4,6;mb;52;60;1122;93;us;us7000kp07;27/10/2023 16:39;earthquake;628;6963;49;125;reviewed;us;us;22 km W of Valdivia;Valdivia;Antioquia;Colombia
+14/08/2023 10:55;73503;-755598;54,24;4,9;mb;182;25;1152;63;us;us6000kzwn;27/10/2023 16:39;earthquake;321;4829;27;448;reviewed;us;us;19 km WNW of Valdivia;Valdivia;Antioquia;Colombia
+13/08/2023 7:58;27209;-796777;10;4,3;mb;35;137;1644;87;us;us6000kzpp;27/10/2023 16:39;earthquake;871;1948;126;18;reviewed;us;us;136 km WNW of Salahonda;Salahonda;Nariño;Colombia
+11/08/2023 13:00;73532;-755745;51,16;4,9;mwr;115;37;1156;7;us;us6000kzf4;17/10/2023 17:01;earthquake;325;4958;83;14;reviewed;us;us;21 km WNW of Valdivia;Valdivia;Antioquia;Colombia
+10/08/2023 20:27;6805;-730938;152,8;4,3;mb;49;107;907;83;us;us6000kz6d;17/10/2023 17:01;earthquake;814;627;96;32;reviewed;us;us;7 km N of Jordán;Jordán;Santander;Colombia
+4/08/2023 0:47;69172;-731242;144,02;4,2;mb;46;126;1019;65;us;us6000kxr4;7/10/2023 16:38;earthquake;818;9982;102;27;reviewed;us;us;11 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+21/07/2023 19:35;69171;-730906;150,86;4,3;mb;119;128;1018;62;us;us7000khit;28/09/2023 16:34;earthquake;84;7884;54;99;reviewed;us;us;9 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+20/07/2023 3:39;553;-776608;10;4,2;mb;26;114;222;4;us;us6000kw5y;28/09/2023 16:33;earthquake;752;1935;113;22;reviewed;us;us;47 km WSW of Nuquí;Nuquí;Choco;Colombia
+12/07/2023 1:22;6886;-731223;152,32;4,3;mb;27;126;988;109;us;us7000kh1r;16/09/2023 14:16;earthquake;689;7632;217;6;reviewed;us;us;13 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+9/07/2023 14:23;69043;-766725;45,79;4,2;mb;19;88;1339;109;us;us6000kr6p;16/09/2023 14:16;earthquake;402;9645;146;13;reviewed;us;us;18 km ESE of Murindó;Murindó;Antioquia;Colombia
+8/07/2023 16:33;69022;-730887;147,94;4,2;mb;15;128;1003;54;us;us7000kfrf;9/09/2023 16:55;earthquake;515;8861;264;4;reviewed;us;us;10 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+1/07/2023 5:59;66362;-734187;124,11;4,3;mb;13;140;811;57;us;us7000kem8;8/09/2023 9:18;earthquake;701;8448;188;9;reviewed;us;us;12 km ESE of El Carmen de Chucurí;El Carmen de Chucurí;Santander;Colombia
+29/06/2023 20:52;29948;-736029;10;4,7;mb;51;61;1973;97;us;us6000kp0m;8/09/2023 9:18;earthquake;749;1856;52;115;reviewed;us;us;21 km SE of Vistahermosa;Vistahermosa;Meta;Colombia
+28/06/2023 3:34;5351;-777289;18,14;4,3;mb;36;62;2342;106;us;us6000kqi7;8/09/2023 9:18;earthquake;598;4113;105;26;reviewed;us;us;59 km NW of Pizarro;Pizarro;Choco;Colombia
+27/06/2023 5:55;67328;-730596;162;4,5;mb;107;53;835;7;us;us6000kndk;8/09/2023 9:18;earthquake;781;7163;38;200;reviewed;us;us;4 km E of Jordán;Jordán;Santander;Colombia
+16/06/2023 23:36;60341;-72234;35;4,2;mb;13;142;856;86;us;us7000kakx;20/08/2023 23:19;earthquake;962;1964;199;7;reviewed;us;us;7 km SSE of Sácama;Sácama;Casanare;Colombia
+11/06/2023 20:51;68568;-730311;151,02;3,8;mb;14;118;959;69;us;us7000k9l8;20/08/2023 23:19;earthquake;961;5301;293;3;reviewed;us;us;12 km NNW of Cepitá;Cepitá;Santander;Colombia
+10/06/2023 1:53;38178;-76489;146,6;4,3;mb;37;98;239;79;us;us7000k7li;12/08/2023 12:15;earthquake;772;9868;119;20;reviewed;us;us;3 km E of Restrepo;Restrepo;Meta;Colombia
+7/06/2023 12:39;60189;-778504;10;5,1;mww;109;39;3702;88;us;us7000k6yf;12/08/2023 12:15;earthquake;666;1783;62;25;reviewed;us;us;54 km WSW of Bahía Solano;Bahía Solano;Choco;Colombia
+28/05/2023 19:02;70417;-761407;70,35;4,3;mb;21;118;2835;35;us;us7000k4pl;5/08/2023 17:07;earthquake;804;12321;178;9;reviewed;us;us;14 km ENE of Dabeiba;Dabeiba;Antioquia;Colombia
+28/05/2023 10:45;66964;-730303;163,81;5,2;mww;90;39;8;7;us;us7000k4mu;5/08/2023 17:07;earthquake;677;444;49;40;reviewed;us;us;1 km W of Aratoca;Aratoca;Santander;Colombia
+27/05/2023 1:01;92536;-753378;40,75;4,5;mb;41;143;658;48;us;us7000k4ez;29/07/2023 17:00;earthquake;893;8463;95;32;reviewed;us;us;8 km SW of Corozal;Corozal;Sucre;Colombia
+22/05/2023 12:14;43829;-762681;120,18;4,5;mb;56;64;1941;101;us;us6000kdxg;29/07/2023 17:00;earthquake;728;6094;56;94;reviewed;us;us;10 km WNW of Bolívar;Bolívar;Valle del Cauca;Colombia
+21/05/2023 14:19;60107;-7362;129,65;4,2;mb;40;108;547;77;us;us7000k48g;29/07/2023 17:00;earthquake;512;6793;102;27;reviewed;us;us;5 km WSW of Güepsa;Güepsa;Santander;Colombia
+14/05/2023 11:43;68463;-730895;151,85;4,6;mb;50;43;948;67;us;us6000kbvy;23/07/2023 20:16;earthquake;713;6073;32;300;reviewed;us;us;12 km N of Jordán;Jordán;Santander;Colombia
+13/05/2023 20:04;68341;-729826;155,21;4,2;mb;25;138;941;99;us;us6000kcvg;23/07/2023 20:17;earthquake;961;7177;152;13;reviewed;us;us;8 km N of Cepitá;Cepitá;Santander;Colombia
+12/05/2023 4:45;70383;-760563;50,01;4,7;mwr;154;60;992;45;us;us6000kbd5;22/07/2023 14:17;earthquake;218;5672;89;12;reviewed;us;us;16 km W of Peque;Peque;Antioquia;Colombia
+7/05/2023 3:05;30134;-747041;182,96;4,3;mb;13;175;1859;51;us;us6000ka69;22/07/2023 14:16;earthquake;512;11796;308;3;reviewed;us;us;41 km SSE of Colombia;Colombia;Meta;Colombia
+5/05/2023 20:48;67608;-729894;153,56;4,4;mb;47;99;868;109;us;us6000k9y1;15/07/2023 17:10;earthquake;781;7896;82;43;reviewed;us;us;1 km WNW of Cepitá;Cepitá;Santander;Colombia
+5/05/2023 13:34;68252;-730964;154,89;4,3;mb;22;105;927;61;us;us6000kavv;15/07/2023 17:10;earthquake;696;3119;153;12;reviewed;us;us;10 km N of Jordán;Jordán;Santander;Colombia
+5/05/2023 12:25;69456;-731785;143,78;4,3;mb;26;122;105;5;us;us6000kavr;15/07/2023 17:10;earthquake;725;10965;126;18;reviewed;us;us;12 km ENE of Betulia;Betulia;Santander;Colombia
+19/04/2023 10:10;69849;-720921;41,72;4,3;mb;27;84;1466;6;us;us7000jw25;2/07/2023 21:47;earthquake;347;8214;147;13;reviewed;us;us;2 km SSE of Cubará;Cubará;Boyaca;Colombia
+18/04/2023 13:51;68783;-731335;152,06;4,2;mb;24;116;981;71;us;us6000k5cn;2/07/2023 21:47;earthquake;41;7817;159;11;reviewed;us;us;15 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+17/04/2023 21:26;77707;-752532;69,28;4,1;mb;23;54;1593;74;us;us7000jvtm;18/01/2024 14:48;earthquake;372;832;261;4;reviewed;us;us;23 km NNE of C?ceres;C?ceres;Antioquia;Colombia
+15/04/2023 15:52;33662;-742162;10;4,5;mb;37;129;1473;91;us;us6000k4sq;17/06/2023 16:36;earthquake;817;1922;76;51;reviewed;us;us;19 km W of Mesetas;Mesetas;Meta;Colombia
+14/04/2023 22:50;22187;-790054;10;4,6;mb;50;74;933;98;us;us6000k4lx;17/06/2023 16:36;earthquake;64;1812;86;40;reviewed;us;us;43 km WNW of Salahonda;Salahonda;Nariño;Colombia
+7/04/2023 17:09;68355;-729739;152,74;4,4;mb;70;43;943;54;us;us6000k2ru;12/06/2023 22:12;earthquake;785;5295;5;118;reviewed;us;us;8 km N of Cepitá;Cepitá;Santander;Colombia
+6/04/2023 23:10;89572;-763312;48,05;4,6;mb;41;99;1471;7;us;us6000k2l9;12/06/2023 22:12;earthquake;75;8534;47;133;reviewed;us;us;7 km NNE of Los Córdobas;Los Córdobas;Monteria;Colombia
+1/04/2023 10:35;68743;-73063;153,18;4,3;mb;25;121;976;105;us;us6000k2d7;3/06/2023 17:06;earthquake;866;7999;16;11;reviewed;us;us;12 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+30/03/2023 3:24;79236;-747887;62,52;4,5;mb;74;44;1872;64;us;us6000k0u3;3/06/2023 17:06;earthquake;612;6601;42;164;reviewed;us;us;14 km N of San Carlos;San Carlos;Antioquia;Colombia
+27/03/2023 17:08;68433;-730951;152,71;4,4;mb;53;71;945;64;us;us6000k059;3/06/2023 17:06;earthquake;313;6878;91;35;reviewed;us;us;12 km N of Jordán;Jordán;Santander;Colombia
+26/03/2023 18:00;68516;-731229;156,19;4,3;mb;29;67;954;88;us;us7000jmx9;3/06/2023 17:06;earthquake;708;3882;201;7;reviewed;us;us;13 km NNW of Jordán;Jordán;Santander;Colombia
+19/03/2023 12:42;116448;-723136;65,71;4,3;mb;38;68;319;47;us;us7000jlb3;26/05/2023 16:54;earthquake;485;5436;108;24;reviewed;us;us;9 km SW of Uribia;Uribia;La Guajira;Colombia
+16/03/2023 9:03;53134;-775791;10;4,7;mb;41;62;2218;99;us;us7000jkf1;20/05/2023 18:20;earthquake;737;1862;63;75;reviewed;us;us;46 km NNW of Pizarro;Pizarro;Choco;Colombia
+15/03/2023 16:50;39045;-760855;177,82;4,5;mb;63;83;1992;85;us;us7000jka7;20/05/2023 18:20;earthquake;724;213;85;41;reviewed;us;us;18 km ESE of San Pedro;San Pedro;Valle del Cauca;Colombia
+15/03/2023 6:46;54963;-776017;10;4,4;mb;19;134;2174;101;us;us7000jk3n;20/05/2023 18:20;earthquake;543;1818;17;10;reviewed;us;us;43 km WSW of Nuquí;Nuquí;Choco;Colombia
+15/03/2023 6:30;54355;-77764;28,64;4,4;mb;21;116;2347;6;us;us7000jlgv;20/05/2023 18:20;earthquake;768;683;203;7;reviewed;us;us;62 km WSW of Nuquí;Nuquí;Choco;Colombia
+14/03/2023 0:07;68028;-729977;157,4;4,5;mb;62;38;908;65;us;us7000jjrd;20/05/2023 18:20;earthquake;743;6699;41;178;reviewed;us;us;5 km NNW of Cepitá;Cepitá;Santander;Colombia
+12/03/2023 15:26;68364;-730707;146,38;4,2;mb;49;118;938;83;us;us7000jjdu;20/05/2023 18:20;earthquake;792;8125;98;29;reviewed;us;us;11 km NNE of Jordán;Jordán;Santander;Colombia
+11/03/2023 16:12;53643;-776548;10;4,9;mb;196;97;2269;68;us;us7000jj76;14/05/2023 21:49;earthquake;657;1837;44;160;reviewed;us;us;55 km NW of Pizarro;Pizarro;Choco;Colombia
+11/03/2023 0:11;6893;-731444;146,29;4,3;mb;23;125;996;49;us;us7000jj2g;14/05/2023 21:49;earthquake;566;10651;161;11;reviewed;us;us;14 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+10/03/2023 15:47;53124;-781883;24,32;5,1;mww;146;45;2786;82;us;us7000jiyr;14/05/2023 21:49;earthquake;773;3726;58;29;reviewed;us;us;99 km WNW of Pizarro;Pizarro;Choco;Colombia
+10/03/2023 4:18;67308;-73027;160,43;5,4;mww;244;43;835;5;us;us7000jirz;9/10/2024 9:45;earthquake;794;4934;6;27;reviewed;us;us;4 km NNW of Aratoca;Aratoca;Santander;Colombia
+6/03/2023 22:59;53828;-775523;10;5;mww;95;62;2167;85;us;us7000jhss;14/05/2023 21:50;earthquake;559;1672;93;11;reviewed;us;us;47 km SW of Nuquí;Nuquí;Choco;Colombia
+6/03/2023 20:32;68238;-730726;155,44;4,3;mb;43;36;925;76;us;us7000jhsj;14/05/2023 21:50;earthquake;783;5953;116;21;reviewed;us;us;Santander;;Santander;Colombia
+2/03/2023 15:38;67351;-730147;156,85;4,5;mb;33;136;84;85;us;us7000jihp;7/05/2023 21:00;earthquake;939;7258;145;14;reviewed;us;us;4 km N of Aratoca;Aratoca;Santander;Colombia
+16/02/2023 17:19;62484;-744491;35;4,5;mb;7;92;1075;32;us;us6000jr8y;18/01/2024 14:21;earthquake;543;2006;151;13;reviewed;us;us;27 km S of Puerto Berr?o;Puerto Berr?o;Santander;Colombia
+15/02/2023 8:04;67659;-730236;158,82;5,2;mb;270;37;87;52;us;us6000jp3b;22/04/2023 16:33;earthquake;701;5671;22;673;reviewed;us;us;5 km WNW of Cepitá;Cepitá;Santander;Colombia
+6/02/2023 19:44;43409;-742762;8,53;3,8;mb;8;153;503;85;us;us6000jm8v;15/04/2023 16:39;earthquake;607;4805;506;1;reviewed;us;us;4 km NE of Pasca;Pasca;Cundinamarca;Colombia
+5/02/2023 19:51;73231;-720272;53,46;4,4;mb;25;84;1767;6;us;us6000jnr4;15/04/2023 16:39;earthquake;67;3448;179;9;reviewed;us;us;36 km NNE of Cubará;Cubará;Apure;Colombia
+1/02/2023 14:51;67763;-731251;154,17;4,6;mb;76;27;879;9;us;us6000jktm;13/04/2023 16:53;earthquake;657;5308;35;246;reviewed;us;us;5 km NW of Jordán;Jordán;Santander;Colombia
+26/01/2023 23:34;50309;-762007;106,37;4,5;mb;56;59;1332;94;us;us6000jjlq;11/04/2023 13:51;earthquake;399;5929;78;48;reviewed;us;us;15 km NNE of San José del Palmar;San José del Palmar;Choco;Colombia
+23/01/2023 6:18;43665;-786336;10;4,4;mb;27;135;3584;54;us;us6000jlxe;18/01/2024 14:14;earthquake;502;1919;179;10;reviewed;us;us;141 km W of Santa Genoveva de Docord?;Santa Genoveva de Docord?;Choco;Colombia
+15/01/2023 12:59;7556;-773987;9,7;4,3;mb;26;100;39;67;us;us7000j4jw;31/03/2023 14:44;earthquake;593;6278;168;10;reviewed;us;us;17 km SE of Córdoba;Córdoba;Nariño;Colombia
+13/01/2023 11:41;68346;-730505;152,6;4,5;mb;41;43;937;72;us;us7000j47t;20/03/2023 1:03;earthquake;748;623;93;34;reviewed;us;us;12 km NW of Cepitá;Cepitá;Santander;Colombia
+13/01/2023 2:21;67854;-730766;155,37;4,6;mb;89;94;887;66;us;us7000j430;20/03/2023 1:03;earthquake;34;8036;62;77;reviewed;us;us;6 km NNE of Jordán;Jordán;Santander;Colombia
+11/01/2023 21:54;67855;-730545;152,77;4,3;mb;58;36;888;79;us;us7000j3t1;20/03/2023 1:03;earthquake;452;4734;101;28;reviewed;us;us;7 km NE of Jordán;Jordán;Santander;Colombia
+5/01/2023 6:03;67877;-730479;153,9;4,4;mb;37;73;89;72;us;us7000j4qq;11/03/2023 17:51;earthquake;334;5421;126;18;reviewed;us;us;8 km NE of Jordán;Jordán;Santander;Colombia
+1/01/2023 19:22;68279;-730877;153,95;4,3;mb;14;59;929;92;us;us7000j43n;11/03/2023 17:51;earthquake;715;9255;218;6;reviewed;us;us;10 km N of Jordán;Jordán;Santander;Colombia
+26/12/2022 2:27;11079;-740078;47,94;4,1;mb;20;78;229;38;us;us7000j2kn;7/03/2023 14:00;earthquake;773;6228;157;11;reviewed;us;us;27 km ENE of Ciénaga;Ciénaga;Magdalena;Colombia
+21/12/2022 13:53;73105;-769735;39,74;4,9;mb;52;78;165;72;us;us6000jawa;28/02/2023 18:06;earthquake;723;6917;11;26;reviewed;us;us;21 km SE of Riosucio;Riosucio;Choco;Colombia
+14/12/2022 12:39;33517;-741224;8,07;4,5;mb;31;78;1496;86;us;us6000jac8;18/02/2023 17:04;earthquake;485;4702;121;20;reviewed;us;us;9 km WSW of Mesetas;Mesetas;Meta;Colombia
+14/12/2022 1:36;67855;-7304;154,45;4,5;mb;70;38;888;81;us;us6000j95b;18/02/2023 17:04;earthquake;641;3877;43;160;reviewed;us;us;8 km WNW of Cepitá;Cepitá;Santander;Colombia
+12/12/2022 9:49;39986;-767154;101,36;4,5;mb;23;146;2478;27;us;us6000j9qp;18/02/2023 17:04;earthquake;504;7475;192;9;reviewed;us;us;26 km WNW of Darien;Darien;Choco;Colombia
+3/12/2022 6:41;72431;-771037;40,01;4,7;mwr;107;50;1762;53;us;us6000j6n3;11/02/2023 18:03;earthquake;664;5474;83;14;reviewed;us;us;22 km S of Riosucio;Riosucio;Choco;Colombia
+2/12/2022 18:09;80925;-725631;10;4,4;mwr;70;37;2064;61;us;us6000j6gr;5/02/2023 18:26;earthquake;556;1873;75;17;reviewed;us;us;17 km SW of La Esperanza;La Esperanza;Norte de Santander;Colombia
+2/12/2022 8:24;6795;-729223;156,94;4,1;mb;33;120;911;64;us;us6000j6ai;5/02/2023 18:26;earthquake;861;8017;145;13;reviewed;us;us;7 km NE of Cepitá;Cepitá;Santander;Colombia
+2/12/2022 6:50;72489;-771841;27,87;4,3;mb;40;105;1791;39;us;us6000j69v;5/02/2023 18:26;earthquake;57;222;137;15;reviewed;us;us;22 km SSW of Riosucio;Riosucio;Choco;Colombia
+2/12/2022 3:46;25622;-79849;10;4,6;mb;29;143;2759;99;us;us6000j695;5/02/2023 18:26;earthquake;331;1935;182;9;reviewed;us;us;144 km WNW of Salahonda;Salahonda;Nariño;Colombia
+1/12/2022 20:48;72127;-770842;43,13;4,7;mb;44;67;1781;77;us;us6000j67s;5/02/2023 18:25;earthquake;456;6695;86;41;reviewed;us;us;25 km S of Riosucio;Riosucio;Choco;Colombia
+28/11/2022 8:37;68133;-76113;22,19;4,7;mb;44;49;848;87;us;us7000isz1;5/02/2023 18:24;earthquake;328;5562;11;27;reviewed;us;us;5 km NNE of Frontino;Frontino;Antioquia;Colombia
+27/11/2022 11:47;7503;-732225;139,78;4,4;mb;18;84;1606;45;us;us6000j63p;5/02/2023 18:24;earthquake;778;7999;203;7;reviewed;us;us;4 km NNW of El Playón;El Playón;Santander;Colombia
+26/11/2022 20:24;111231;-740526;42,34;4,3;mb;20;56;173;84;us;us6000j636;5/02/2023 18:24;earthquake;742;5801;177;10;reviewed;us;us;20 km SE of Santa Marta;Santa Marta;Magdalena;Colombia
+24/11/2022 19:35;77723;-752486;46,6;3,9;mwr;35;45;1545;13;us;us7000is7z;30/01/2023 1:01;earthquake;365;6822;93;11;reviewed;us;us;23 km NNE of Cáceres;Cáceres;Antioquia;Colombia
+20/11/2022 0:02;6844;-730742;152,39;4,2;mb;22;72;945;53;us;us7000is4g;30/01/2023 1:00;earthquake;753;3782;176;13;reviewed;us;us;12 km N of Jordán;Jordán;Santander;Colombia
+13/11/2022 7:13;73492;-718699;10;4,6;mb;53;63;1883;72;us;us7000ipgi;28/01/2023 14:58;earthquake;774;1884;89;38;reviewed;us;us;46 km NE of Cubará;Cubará;Apure;Colombia
+22/10/2022 19:39;18089;-789969;47,03;4,3;mb;37;128;534;91;us;us6000ivuj;3/01/2023 10:23;earthquake;723;6784;133;16;reviewed;us;us;22 km W of Tumaco;Tumaco;Nariño;Colombia
+18/10/2022 2:17;67912;-730398;161,15;4,7;mb;82;30;894;86;us;us6000iuha;31/12/2022 18:03;earthquake;618;5757;26;455;reviewed;us;us;8 km WNW of Cepitá;Cepitá;Santander;Colombia
+15/10/2022 12:29;6877;-730918;150,28;4,4;mb;63;96;978;82;us;us6000itz5;31/12/2022 18:03;earthquake;676;8109;67;66;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+12/10/2022 4:09;6895;-730863;147,75;4,4;mb;38;74;996;78;us;us6000iujm;17/12/2022 17:54;earthquake;743;8964;107;25;reviewed;us;us;11 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+4/10/2022 0:13;1808;-772764;128,35;4,8;mb;95;97;1199;6;us;us6000iqmd;18/01/2024 11:58;earthquake;788;6972;25;505;reviewed;us;us;9 km NE of El Rosario;El Rosario;Cauca;Colombia
+3/10/2022 18:49;69083;-767318;15,9;4,7;mb;95;48;1391;66;us;us6000iqkx;10/12/2022 17:53;earthquake;232;4006;35;244;reviewed;us;us;12 km SE of Murindó;Murindó;Antioquia;Colombia
+25/09/2022 22:41;33162;-791953;10;4,2;mb;34;155;2941;53;us;us7000ib1b;3/12/2022 17:03;earthquake;665;1587;102;27;reviewed;us;us;121 km NW of Mosquera;Mosquera;Cundinamarca;Colombia
+19/09/2022 23:54;69237;-749252;61,87;4,5;mb;86;37;943;87;us;us7000i9ft;26/11/2022 15:57;earthquake;586;6704;86;40;reviewed;us;us;16 km E of Amalfi;Amalfi;Antioquia;Colombia
+19/09/2022 1:12;66815;-72995;158,85;4,9;mb;110;43;789;74;us;us7000i97s;26/11/2022 15:57;earthquake;745;4309;22;650;reviewed;us;us;2 km ESE of Aratoca;Aratoca;Santander;Colombia
+18/09/2022 10:32;68579;-73104;150,26;4,2;mb;61;126;959;34;us;us7000iah9;26/11/2022 15:57;earthquake;75;6945;76;49;reviewed;us;us;13 km N of Jordán;Jordán;Santander;Colombia
+17/09/2022 1:12;74207;-737203;108,93;4,3;mb;38;92;1645;59;us;us7000i8rt;26/11/2022 15:57;earthquake;697;576;148;13;reviewed;us;us;20 km ENE of Puerto Wilches;Puerto Wilches;Santander;Colombia
+6/09/2022 5:14;66308;-743658;83,58;4,2;mb;50;70;1236;62;us;us7000i5ma;15/11/2022 14:06;earthquake;516;6074;98;29;reviewed;us;us;15 km NNE of Puerto Berrío;Puerto Berrío;Antioquia;Colombia
+30/08/2022 14:17;51534;-762303;100,78;4,5;mb;28;116;1246;74;us;us7000i614;5/11/2022 23:37;earthquake;733;8545;135;17;reviewed;us;us;23 km WSW of Pueblo Rico;Pueblo Rico;Choco;Colombia
+22/08/2022 16:52;67699;-730547;156,75;4,4;mb;57;35;872;64;us;us6000icw1;1/11/2022 10:12;earthquake;812;596;54;97;reviewed;us;us;6 km NE of Jordán;Jordán;Santander;Colombia
+17/08/2022 10:46;48445;-760511;128,81;4,6;mb;33;81;1435;78;us;us7000i2l7;27/10/2022 21:28;earthquake;1108;6655;96;32;reviewed;us;us;7 km S of El Águila;El Águila;Valle del Cauca;Colombia
+14/08/2022 22:44;68682;-730414;151,18;4,1;mb;35;113;97;56;us;us6000iax3;27/10/2022 21:26;earthquake;73;9519;105;25;reviewed;us;us;13 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+13/08/2022 8:02;69068;-729904;150,76;4,6;mb;53;53;1012;115;us;us6000iaij;27/10/2022 21:25;earthquake;836;7341;28;378;reviewed;us;us;11 km SE of Piedecuesta;Piedecuesta;Santander;Colombia
+13/08/2022 7:20;68811;-730954;157,36;4,2;mb;16;166;982;59;us;us6000id49;27/10/2022 21:27;earthquake;979;828;236;5;reviewed;us;us;12 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+5/08/2022 20:03;82722;-771925;10;4,5;mb;34;79;1002;66;us;us6000i8kd;21/10/2022 18:18;earthquake;61;1735;74;56;reviewed;us;us;27 km NNW of Unguía;Unguía;Choco;Colombia
+27/07/2022 7:40;26716;-776584;95,24;4,4;mb;20;128;1947;95;us;us6000i5w5;1/10/2022 17:09;earthquake;925;4244;239;5;reviewed;us;us;11 km S of Timbiquí;Timbiquí;Cauca;Colombia
+21/07/2022 23:42;67709;-73067;155,48;4,1;mb;29;132;873;86;us;us6000i76m;27/09/2022 11:57;earthquake;664;5691;103;26;reviewed;us;us;5 km NE of Jordán;Jordán;Santander;Colombia
+19/07/2022 15:04;68944;-731666;149,37;4,3;mb;14;123;999;62;us;us6000i676;27/09/2022 11:57;earthquake;721;8738;377;2;reviewed;us;us;12 km E of Betulia;Betulia;Santander;Colombia
+7/07/2022 19:50;68134;-730292;153,68;4,3;mb;27;104;916;73;us;us6000i2nk;13/09/2022 1:26;earthquake;39;65;188;8;reviewed;us;us;8 km NW of Cepitá;Cepitá;Santander;Colombia
+7/07/2022 18:44;68663;-730722;142,05;4;mb;16;130;967;45;us;us6000i246;13/09/2022 1:26;earthquake;8;104;258;4;reviewed;us;us;13 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+7/07/2022 3:57;68925;-731057;143,63;4,2;mb;52;96;993;51;us;us6000i23h;18/01/2024 11:39;earthquake;41;92;75;49;reviewed;us;us;12 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+3/07/2022 3:59;21113;-795531;10;4,4;mb;40;143;2163;33;us;us6000i0l2;13/09/2022 1:23;earthquake;84;18;92;34;reviewed;us;us;91 km WNW of Tumaco;Tumaco;Nariño;Colombia
+1/07/2022 3:37;68015;-730028;151,46;4,3;mb;36;84;906;42;us;us6000i0a8;3/09/2022 16:03;earthquake;79;79;113;22;reviewed;us;us;6 km NNW of Cepitá;Cepitá;Santander;Colombia
+30/06/2022 21:13;68389;-730269;146,56;4,2;mb;43;119;941;96;us;us6000hz0g;3/09/2022 16:03;earthquake;79;53;88;36;reviewed;us;us;11 km NNW of Cepitá;Cepitá;Santander;Colombia
+30/06/2022 18:37;49528;-760895;114,04;4,5;mb;82;93;1351;62;us;us6000hyzh;3/09/2022 16:03;earthquake;44;629;45;143;reviewed;us;us;7 km NW of El Águila;El Águila;Valle del Cauca;Colombia
+23/06/2022 22:03;68663;-730524;143,55;4,3;mb;45;71;967;12;us;us7000hjtj;27/08/2022 22:20;earthquake;56;59;103;27;reviewed;us;us;13 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+19/06/2022 2:45;69376;-73133;139,72;4,2;mb;18;121;1039;34;us;us7000hjmu;27/08/2022 22:18;earthquake;48;83;199;7;reviewed;us;us;10 km WSW of Piedecuesta;Piedecuesta;Santander;Colombia
+18/06/2022 11:26;68826;-730661;149,42;4,5;mb;42;61;983;92;us;us7000hie8;27/08/2022 22:18;earthquake;73;71;4;181;reviewed;us;us;11 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+12/06/2022 4:00;43462;-735652;50,96;4,4;mb;53;125;901;49;us;us7000hhvl;20/08/2022 19:16;earthquake;55;77;92;34;reviewed;us;us;9 km N of Restrepo;Restrepo;Meta;Colombia
+12/06/2022 2:05;8231;-779074;14,26;4;mb;20;99;161;6;us;us7000hgvq;20/08/2022 19:16;earthquake;469;5357;195;7;reviewed;us;us;16 km SW of Cumbal;Cumbal;Nariño;Colombia
+11/06/2022 19:50;69518;-760316;10;4,6;mb;45;77;905;72;us;us7000hgu3;20/08/2022 19:16;earthquake;45;18;105;27;reviewed;us;us;15 km WSW of Peque;Peque;Antioquia;Colombia
+8/06/2022 18:12;68286;-741788;92,26;4,6;mb;101;63;1432;66;us;us7000hg1t;13/08/2022 16:51;earthquake;54;72;6;82;reviewed;us;us;23 km NW of Puerto Parra;Puerto Parra;Antioquia;Colombia
+5/06/2022 11:31;68882;-73069;147,18;4,2;mb;17;128;989;48;us;us7000hg8m;13/08/2022 16:51;earthquake;61;84;186;9;reviewed;us;us;11 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+31/05/2022 23:20;68568;-730358;145,81;4,3;mb;48;36;959;77;us;us7000he04;6/08/2022 17:13;earthquake;72;6;52;103;reviewed;us;us;13 km NNW of Cepitá;Cepitá;Santander;Colombia
+31/05/2022 15:49;68655;-731145;154,17;4,1;mb;32;73;967;98;us;us7000hdxz;6/08/2022 17:13;earthquake;611;6221;185;9;reviewed;us;us;14 km N of Jordán;Jordán;Santander;Colombia
+29/05/2022 20:23;68191;-73056;146,23;4,5;mb;77;66;921;101;us;us7000hdii;6/08/2022 17:13;earthquake;71;63;39;191;reviewed;us;us;10 km NNE of Jordán;Jordán;Santander;Colombia
+28/05/2022 21:26;69374;-731291;136,93;4,2;mb;32;126;1039;99;us;us7000hdcz;6/08/2022 17:13;earthquake;79;9;152;13;reviewed;us;us;10 km WSW of Piedecuesta;Piedecuesta;Santander;Colombia
+27/05/2022 22:01;68281;-730753;149,97;4,3;mb;35;71;929;85;us;us7000hd7k;6/08/2022 17:13;earthquake;33;72;7;60;reviewed;us;us;10 km NNE of Jordán;Jordán;Santander;Colombia
+21/05/2022 10:33;69515;-73138;140,07;4,3;mb;30;125;1053;9;us;us6000hmxa;2/08/2022 14:50;earthquake;77;55;66;65;reviewed;us;us;10 km WSW of Piedecuesta;Piedecuesta;Santander;Colombia
+17/05/2022 20:38;38914;-790132;10;3,8;mb;16;180;3383;107;us;us7000hc7q;23/07/2022 21:39;earthquake;112;2;255;4;reviewed;us;us;165 km NNW of Mosquera;Mosquera;Cundinamarca;Colombia
+16/05/2022 6:25;68748;-73099;147,84;4,3;mb;98;107;976;88;us;us6000hlfw;23/07/2022 21:39;earthquake;74;64;39;186;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+14/05/2022 8:10;69193;-731647;143,27;4,2;mb;35;124;1023;101;us;us6000hl48;23/07/2022 21:38;earthquake;86;71;52;102;reviewed;us;us;13 km E of Betulia;Betulia;Santander;Colombia
+12/05/2022 16:23;4014;-764472;69,18;5;mww;220;52;2274;94;us;us6000hkph;22/07/2022 13:30;earthquake;56;43;86;13;reviewed;us;us;10 km NNE of Darien;Darien;Valle del Cauca;Colombia
+29/04/2022 18:47;69193;-731481;142,64;4,1;mb;26;112;1022;81;us;us7000h5y8;4/07/2022 22:42;earthquake;68;8;158;11;reviewed;us;us;13 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+28/04/2022 2:57;54306;-765299;71,91;4,3;mb;34;76;1249;49;us;us7000h5ku;4/07/2022 22:41;earthquake;41;84;137;16;reviewed;us;us;7 km SSE of Lloró;Lloró;Choco;Colombia
+25/04/2022 0:48;68799;-731434;151,78;4;mb;16;97;982;43;us;us7000h6md;4/07/2022 22:40;earthquake;75;89;3;3;reviewed;us;us;15 km ENE of Zapatoca;Zapatoca;Santander;Colombia
+24/04/2022 20:49;82131;-765351;37,28;4,4;mb;95;66;661;78;us;us6000hg5a;4/07/2022 22:40;earthquake;86;56;61;78;reviewed;us;us;18 km WSW of San Pedro de Urabá;San Pedro de Urabá;Antioquia;Colombia
+23/04/2022 4:56;68684;-764688;10;4,4;mb;23;55;1151;5;us;us6000hftr;4/07/2022 22:39;earthquake;59;19;17;11;reviewed;us;us;26 km WSW of Dabeiba;Dabeiba;Antioquia;Colombia
+20/04/2022 16:02;28283;-794273;10;4,4;mb;;80;2662;75;us;us6000hf3t;25/06/2022 20:20;earthquake;77;19;118;21;reviewed;us;us;114 km WNW of Mosquera;Mosquera;Cundinamarca;Colombia
+19/04/2022 14:32;18566;-758536;28,88;4,6;mb;;76;224;78;us;us7000h3ef;25/06/2022 20:19;earthquake;74;48;77;52;reviewed;us;us;7 km NE of Acevedo;Acevedo;Huila;Colombia
+13/04/2022 8:18;68718;-731367;138,53;4,1;mb;;126;974;59;us;us7000h3d8;20/06/2022 17:08;earthquake;78;104;1;27;reviewed;us;us;15 km ENE of Zapatoca;Zapatoca;Santander;Colombia
+12/04/2022 21:23;113434;-76105;10;3,9;mb;;57;1701;59;us;us7000h1ll;20/06/2022 17:07;earthquake;53;2;297;3;reviewed;us;us;121 km NW of Clemencia;Clemencia;Bolivar;Colombia
+9/04/2022 16:34;6851;-730487;150,58;4,4;mb;;30;952;99;us;us7000h0yx;20/06/2022 17:07;earthquake;7;47;83;42;reviewed;us;us;13 km NW of Cepitá;Cepitá;Santander;Colombia
+5/04/2022 8:49;6843;-730655;148,39;4,3;mb;;82;944;64;us;us7000h0qr;11/06/2022 15:21;earthquake;73;7;153;12;reviewed;us;us;12 km NNE of Jordán;Jordán;Santander;Colombia
+1/04/2022 13:39;68993;-730593;145,03;4,5;mb;;71;1;106;us;us7000gz2y;4/06/2022 15:42;earthquake;63;6;63;79;reviewed;us;us;9 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+26/03/2022 5:15;69022;-731458;144,17;4,4;mb;;120;1005;45;us;us7000gyqt;4/06/2022 15:42;earthquake;72;7;203;8;reviewed;us;us;14 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+23/03/2022 20:34;49824;-763122;93,71;4,7;mb;;68;1431;52;us;us7000gwqz;28/05/2022 13:35;earthquake;72;26;79;49;reviewed;us;us;12 km NW of San José del Palmar;San José del Palmar;Choco;Colombia
+20/03/2022 6:02;30949;-793379;10;4,5;mb;;140;2826;8;us;us6000h664;28/05/2022 13:35;earthquake;96;19;57;92;reviewed;us;us;118 km WNW of Mosquera;Mosquera;Cundinamarca;Colombia
+19/03/2022 17:22;68581;-731023;146,73;4,5;mb;;47;959;67;us;us6000h63b;28/05/2022 13:35;earthquake;64;54;113;23;reviewed;us;us;13 km N of Jordán;Jordán;Santander;Colombia
+7/03/2022 13:34;67994;-729917;151,42;4,9;mb;;52;905;94;us;us6000h2un;14/05/2022 16:52;earthquake;67;55;25;518;reviewed;us;us;5 km NNW of Cepitá;Cepitá;Santander;Colombia
+4/03/2022 0:01;56481;-778548;10;4,4;mb;;115;2375;69;us;us6000h1z6;7/05/2022 16:32;earthquake;28;19;149;13;reviewed;us;us;65 km W of Nuquí;Nuquí;Choco;Colombia
+1/03/2022 9:09;67961;-73078;148,31;4,3;mb;;63;897;46;us;us6000h24a;7/05/2022 16:32;earthquake;76;67;1;28;reviewed;us;us;7 km NNE of Jordán;Jordán;Santander;Colombia
+23/02/2022 7:49;78174;-742494;50,69;5,5;mww;;45;2055;71;us;us7000gn6g;4/05/2022 8:40;earthquake;55;43;38;67;reviewed;us;us;26 km SW of Santa Rosa del Sur;Santa Rosa del Sur;Bolivar;Colombia
+20/02/2022 13:35;69148;-730374;148,24;4,3;mb;;60;1016;67;us;us7000gmgp;4/05/2022 8:39;earthquake;86;42;114;22;reviewed;us;us;8 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+18/02/2022 1:42;68903;-729916;143,24;4,4;mb;;154;995;6;us;us7000gn7i;30/04/2022 9:18;earthquake;98;112;149;13;reviewed;us;us;12 km SSE of Piedecuesta;Piedecuesta;Santander;Colombia
+6/02/2022 19:31;3448;-747357;62,48;4,4;mb;;91;1447;89;us;us7000gipv;12/05/2022 16:34;earthquake;67;75;67;64;reviewed;us;us;10 km NE of Colombia;Colombia;Huila;Colombia
+6/02/2022 2:13;105803;-732201;69,23;4,7;mww;;28;1144;47;us;us7000gie4;19/04/2022 12:38;earthquake;61;44;69;20;reviewed;us;us;13 km NNE of Valledupar;Valledupar;Cesar;Colombia
+26/01/2022 1:52;6964;-729927;142,58;4,3;mb;;154;1068;39;us;us7000ghc0;9/04/2022 15:19;earthquake;79;6;265;4;reviewed;us;us;6 km ESE of Piedecuesta;Piedecuesta;Santander;Colombia
+25/01/2022 20:19;69341;-73114;146,2;4,2;mb;;159;1035;105;us;us7000ghbu;9/04/2022 15:19;earthquake;62;87;199;7;reviewed;us;us;9 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+25/01/2022 15:08;68946;-72993;147,93;4,2;mb;;154;999;91;us;us7000gh0d;9/04/2022 15:19;earthquake;42;83;176;9;reviewed;us;us;12 km SSE of Piedecuesta;Piedecuesta;Santander;Colombia
+18/01/2022 23:25;53986;-725392;10;4,6;mb;;35;73;49;us;us7000gd37;6/08/2022 8:30;earthquake;39;18;59;86;reviewed;us;us;17 km WNW of Yopal;Yopal;Casanare;Colombia
+11/01/2022 3:28;22295;-789499;24,56;4,4;mb;;95;46;85;us;us7000gaus;19/03/2022 17:07;earthquake;67;66;202;7;reviewed;us;us;38 km WNW of Salahonda;Salahonda;Nariño;Colombia
+19/12/2021 23:20;68648;-729781;149,82;4,4;mb;;53;971;103;us;us6000gdr7;1/03/2022 11:38;earthquake;78;54;61;77;reviewed;us;us;12 km N of Cepitá;Cepitá;Santander;Colombia
+9/12/2021 18:14;68146;-729486;153,37;4,8;mb;;30;925;85;us;us6000gb0x;12/02/2022 18:07;earthquake;72;63;28;397;reviewed;us;us;7 km NNE of Cepitá;Cepitá;Santander;Colombia
+8/12/2021 19:07;44212;-736567;35,97;4,6;mb;;67;784;58;us;us6000gasf;6/08/2022 12:45;earthquake;6;78;81;46;reviewed;us;us;9 km NE of El Calvario;El Calvario;Meta;Colombia
+2/12/2021 8:52;73528;-770462;35;4,8;mwr;;45;1638;102;us;us6000g8g5;5/02/2022 18:03;earthquake;3;19;93;11;reviewed;us;us;12 km SE of Riosucio;Riosucio;Choco;Colombia
+29/11/2021 15:33;42503;-763426;123,06;4,9;mb;;72;2091;9;us;us6000g7q7;23/02/2022 7:58;earthquake;68;51;72;60;reviewed;us;us;4 km NNW of Trujillo;Trujillo;Valle del Cauca;Colombia
+29/11/2021 9:41;36788;-785964;10;4,5;mb;;134;3421;109;us;us6000g8r4;5/02/2022 18:03;earthquake;72;19;156;14;reviewed;us;us;130 km N of Mosquera;Mosquera;Cundinamarca;Colombia
+29/11/2021 2:53;36391;-740114;10;4,4;mb;;67;1237;62;us;us7000fxxc;5/02/2022 18:04;earthquake;41;19;84;44;reviewed;us;us;12 km N of Lejanías;Lejanías;Meta;Colombia
+28/11/2021 4:42;75242;-769244;27,74;4,7;mb;;94;1916;79;us;us7000fxps;5/02/2022 18:04;earthquake;66;89;166;12;reviewed;us;us;23 km ENE of Riosucio;Riosucio;Choco;Colombia
+27/11/2021 7:05;5841;-759875;34,83;4,1;mb;;101;573;49;us;us6000g8ey;5/02/2022 18:03;earthquake;38;102;233;6;reviewed;us;us;4 km ESE of Ciudad Bolívar;Ciudad Bolívar;Antioquia;Colombia
+26/11/2021 7:12;73397;-752766;64,64;4,3;mb;;89;1168;56;us;us7000fx7u;5/02/2022 18:04;earthquake;71;107;53;102;reviewed;us;us;13 km ENE of Valdivia;Valdivia;Antioquia;Colombia
+25/11/2021 22:20;6851;-73001;152,05;4,4;mb;;31;955;117;us;us7000fx5d;5/02/2022 18:04;earthquake;8;47;88;37;reviewed;us;us;11 km NNW of Cepitá;Cepitá;Santander;Colombia
+18/11/2021 1:58;71732;-774752;54,65;4,2;mb;;128;2165;46;us;us7000fwha;22/01/2022 15:52;earthquake;79;104;152;12;reviewed;us;us;32 km ENE of Juradó;Juradó;Choco;Colombia
+15/11/2021 2:23;67552;-7164;10;4,3;mb;;60;1671;75;us;us7000fvgp;22/01/2022 15:52;earthquake;47;18;79;47;reviewed;us;us;15 km ESE of Fortul;Fortul;Arauca;Colombia
+9/11/2021 10:17;69146;-729885;141,22;4,3;mb;;77;1019;55;us;us7000fsq4;15/01/2022 15:51;earthquake;78;65;65;71;reviewed;us;us;10 km SE of Piedecuesta;Piedecuesta;Santander;Colombia
+4/11/2021 23:13;21522;-789939;24,44;4,5;mb;;81;1977;111;us;us7000frle;15/01/2022 15:51;earthquake;71;49;7;63;reviewed;us;us;39 km WNW of Salahonda;Salahonda;Nariño;Colombia
+2/11/2021 14:08;6963;-730158;147,45;4;mb;;120;1065;111;us;us7000frsj;14/01/2022 12:59;earthquake;73;132;299;3;reviewed;us;us;4 km SE of Piedecuesta;Piedecuesta;Santander;Colombia
+29/10/2021 16:43;21847;-766147;24,01;4,3;mwr;;90;2666;77;us;us7000fpxh;14/01/2022 12:58;earthquake;74;56;93;11;reviewed;us;us;7 km S of Paispamba;Paispamba;Cauca;Colombia
+29/10/2021 0:51;69536;-730577;135,42;4,3;mb;;72;1054;56;us;us7000fpnb;14/01/2022 12:58;earthquake;54;142;267;6;reviewed;us;us;3 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+26/10/2021 12:32;69354;-730916;143,36;4,6;mb;;167;1036;9;us;us7000fptx;8/01/2022 12:43;earthquake;77;7;129;20;reviewed;us;us;7 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+17/10/2021 10:51;63622;-734851;119,01;4,5;mb;;87;614;53;us;us6000fwgx;25/12/2021 17:58;earthquake;61;63;106;26;reviewed;us;us;8 km N of Contratación;Contratación;Santander;Colombia
+11/10/2021 23:51;68198;-729919;151,95;5;mb;;68;925;97;us;us6000ftws;18/12/2021 14:58;earthquake;77;58;24;552;reviewed;us;us;7 km NNW of Cepitá;Cepitá;Santander;Colombia
+11/10/2021 3:30;60015;-733101;173,75;4;mb;;63;25;57;us;us6000ftnd;18/12/2021 14:58;earthquake;73;49;97;30;reviewed;us;us;7 km NNE of Gámbita;Gámbita;Santander;Colombia
+5/10/2021 14:37;69037;-729739;149,94;4,7;mb;;47;101;116;us;us6000fs0z;10/12/2021 16:14;earthquake;6;48;27;430;reviewed;us;us;12 km SW of Santa Bárbara;Santa Bárbara;Santander;Colombia
+24/09/2021 20:18;68914;-729662;144,48;4,2;mb;;98;999;67;us;us7000fe9m;4/12/2021 9:29;earthquake;81;66;101;29;reviewed;us;us;12 km W of Guaca;Guaca;Santander;Colombia
+24/09/2021 15:42;29785;-782576;35;4,4;mb;;99;2729;55;us;us6000fq6n;4/12/2021 9:28;earthquake;89;2;19;8;reviewed;us;us;56 km NNE of Mosquera;Mosquera;Cundinamarca;Colombia
+7/09/2021 1:13;68762;-730522;153,61;4,3;mb;;76;977;51;us;us7000f8sd;17/11/2021 12:26;earthquake;78;88;39;183;reviewed;us;us;12 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+28/08/2021 7:37;68607;-730284;149,08;4,5;mb;;79;963;35;us;us7000f57u;6/11/2021 15:28;earthquake;81;72;64;72;reviewed;us;us;13 km NNW of Cepitá;Cepitá;Santander;Colombia
+18/08/2021 7:36;50726;-763165;91,81;4,4;mb;;84;1359;68;us;us6000f7xk;29/10/2021 9:46;earthquake;71;93;114;22;reviewed;us;us;21 km NNW of San José del Palmar;San José del Palmar;Choco;Colombia
+12/08/2021 7:08;56461;-739576;122,74;4,3;mb;;62;874;69;us;us6000f4h9;23/10/2021 10:46;earthquake;41;61;67;63;reviewed;us;us;3 km ESE of Pauna;Pauna;Boyaca;Colombia
+9/08/2021 17:50;69103;-730035;142,09;4,1;mb;;59;1014;97;us;us6000f3qf;23/10/2021 10:45;earthquake;81;74;112;22;reviewed;us;us;9 km SSE of Piedecuesta;Piedecuesta;Santander;Colombia
+31/07/2021 20:50;44828;-784767;10;4,9;mww;;132;339;117;us;us6000f14a;13/10/2021 20:04;earthquake;71;18;93;11;reviewed;us;us;125 km WNW of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+30/07/2021 19:48;69039;-729706;145,88;4,4;mb;;59;1011;98;us;us6000f0v5;13/10/2021 20:04;earthquake;74;65;64;71;reviewed;us;us;11 km SW of Santa Bárbara;Santa Bárbara;Santander;Colombia
+28/07/2021 6:38;72538;-728955;165,68;4,3;mb;;45;1365;7;us;us6000ezsk;3/10/2021 0:22;earthquake;8;91;4;181;reviewed;us;us;6 km SSW of Vetas;Vetas;Santander;Colombia
+27/07/2021 12:51;67676;-720311;10;4;mb;;83;1359;82;us;us6000f1jj;3/10/2021 0:24;earthquake;51;18;367;2;reviewed;us;us;27 km SSE of Cubará;Cubará;Arauca;Colombia
+27/07/2021 6:02;69326;-730044;142,03;4,2;mb;;78;1036;56;us;us6000f1j7;3/10/2021 0:24;earthquake;5;97;187;8;reviewed;us;us;7 km SE of Piedecuesta;Piedecuesta;Santander;Colombia
+21/07/2021 11:44;69569;-730289;140,93;4,2;mb;;152;1058;105;us;us6000expn;25/09/2021 16:08;earthquake;51;72;115;21;reviewed;us;us;4 km SSE of Piedecuesta;Piedecuesta;Santander;Colombia
+19/07/2021 10:30;68374;-730921;145,75;4,3;mb;;118;938;47;us;us7000enfm;25/09/2021 16:08;earthquake;82;77;77;47;reviewed;us;us;11 km N of Jordán;Jordán;Santander;Colombia
+17/07/2021 18:51;68194;-776752;10;4,4;mb;;105;387;92;us;us7000en10;25/09/2021 16:08;earthquake;73;19;105;26;reviewed;us;us;32 km SSE of Juradó;Juradó;Choco;Colombia
+10/07/2021 18:38;69115;-73102;139,72;4,3;mb;;96;1012;77;us;us7000em7i;17/09/2021 17:50;earthquake;8;97;111;23;reviewed;us;us;10 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+6/07/2021 6:41;68865;-73064;146,21;4,6;mb;;48;987;7;us;us7000ej2x;10/09/2021 15:08;earthquake;62;49;35;243;reviewed;us;us;11 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+5/07/2021 21:57;68036;-730454;151,82;4,2;mb;;48;905;95;us;us7000ej0c;10/09/2021 15:08;earthquake;65;41;51;109;reviewed;us;us;9 km NW of Cepitá;Cepitá;Santander;Colombia
+1/07/2021 18:05;56818;-782452;10;4,4;mb;;142;3995;6;us;us7000ej4a;9/09/2021 17:06;earthquake;61;19;162;11;reviewed;us;us;107 km W of Nuquí;Nuquí;Choco;Colombia
+1/07/2021 9:07;69212;-731343;142,32;4,5;mb;;126;1023;87;us;us7000ei04;9/09/2021 17:06;earthquake;87;105;51;114;reviewed;us;us;11 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+30/06/2021 7:15;68959;-730946;143,46;4,4;mb;;117;996;68;us;us6000er3h;9/09/2021 17:06;earthquake;74;79;45;142;reviewed;us;us;11 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+26/06/2021 22:34;68763;-730865;152,51;4,1;mb;;94;977;11;us;us7000ei68;9/09/2021 17:06;earthquake;81;46;261;4;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+18/06/2021 15:24;69061;-731082;146,42;4,3;mb;;127;1007;119;us;us6000ep4d;27/08/2021 13:57;earthquake;62;78;177;9;reviewed;us;us;11 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+14/06/2021 15:05;6809;-730231;159,33;4,5;mb;;66;912;89;us;us7000ed1w;26/08/2021 16:59;earthquake;24;64;41;173;reviewed;us;us;8 km NW of Cepitá;Cepitá;Santander;Colombia
+14/06/2021 11:25;68245;-730833;154,37;4,5;mb;;48;925;77;us;us7000ed00;26/08/2021 16:59;earthquake;67;58;36;224;reviewed;us;us;10 km N of Jordán;Jordán;Santander;Colombia
+30/05/2021 21:36;68076;-73064;147,27;4,1;mb;;59;909;82;us;us7000e9gq;7/08/2021 17:06;earthquake;75;81;79;44;reviewed;us;us;8 km NNE of Jordán;Jordán;Santander;Colombia
+29/05/2021 10:01;84863;-77031;40,7;4,4;mb;;62;752;104;us;us6000efu0;9/08/2022 0:16;earthquake;71;126;91;35;reviewed;us;us;27 km E of Acandí;Acandí;Choco;Colombia
+28/05/2021 11:10;67826;-730743;154,11;4,7;mb;;60;884;11;us;us6000efla;7/08/2021 17:05;earthquake;61;61;27;409;reviewed;us;us;5 km NNE of Jordán;Jordán;Santander;Colombia
+17/05/2021 13:52;68907;-732411;148,04;4,3;mb;;119;1004;73;us;us7000e52q;24/07/2021 16:07;earthquake;56;92;266;4;reviewed;us;us;4 km ESE of Betulia;Betulia;Santander;Colombia
+13/05/2021 18:55;67359;-729762;156,36;4,3;mb;;70;844;89;us;us7000e2xc;23/07/2021 13:08;earthquake;81;74;169;10;reviewed;us;us;2 km S of Cepitá;Cepitá;Santander;Colombia
+12/05/2021 17:10;68993;-730977;148,15;4,1;mb;;128;1;57;us;us7000e4e8;23/07/2021 13:08;earthquake;74;68;262;4;reviewed;us;us;11 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+10/05/2021 7:04;69105;-73168;147,66;4,2;mb;;123;1014;103;us;us7000e3t3;23/07/2021 13:08;earthquake;88;10;159;11;reviewed;us;us;12 km E of Betulia;Betulia;Santander;Colombia
+9/05/2021 14:28;39981;-715392;16,47;4,5;mb;;74;243;55;us;us7000e1s3;23/07/2021 13:08;earthquake;9;45;7;60;reviewed;us;us;69 km ESE of Puerto Gaitán;Puerto Gaitán;Meta;Colombia
+4/05/2021 11:07;68578;-731141;147,49;4,2;mb;;102;959;68;us;us7000e22n;10/07/2021 15:16;earthquake;79;77;105;25;reviewed;us;us;13 km N of Jordán;Jordán;Santander;Colombia
+1/05/2021 1:36;11867;-739181;10;4,5;mb;;76;76;53;us;us7000dz7e;10/07/2021 15:14;earthquake;52;19;82;43;reviewed;us;us;75 km NNE of Santa Marta;Santa Marta;Magdalena;Colombia
+26/04/2021 3:49;68169;-729781;153,46;4,1;mb;;131;924;74;us;us7000dyzw;7/07/2021 13:35;earthquake;87;81;82;41;reviewed;us;us;6 km N of Cepitá;Cepitá;Santander;Colombia
+23/04/2021 12:05;69124;-731087;146,54;4;mb;;127;1013;73;us;us7000dyke;7/07/2021 13:34;earthquake;73;85;196;8;reviewed;us;us;10 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+22/04/2021 6:51;6826;-7308;149,95;4,3;mb;;71;927;81;us;us7000dy9f;3/07/2021 11:50;earthquake;42;83;238;5;reviewed;us;us;10 km N of Jordán;Jordán;Santander;Colombia
+17/04/2021 4:17;67812;-730701;155,7;4,3;mb;;66;883;88;us;us6000e2cb;3/07/2021 11:47;earthquake;74;8;101;28;reviewed;us;us;6 km NNE of Jordán;Jordán;Santander;Colombia
+13/04/2021 21:51;59984;-776362;10;4,3;mb;;111;3106;65;us;us6000e399;19/06/2021 16:26;earthquake;64;18;168;10;reviewed;us;us;35 km SW of Bahía Solano;Bahía Solano;Choco;Colombia
+13/04/2021 19:19;72025;-729353;166,8;4,1;mb;;115;1309;105;us;us6000e396;19/06/2021 16:26;earthquake;81;87;157;11;reviewed;us;us;3 km E of Tona;Tona;Santander;Colombia
+13/04/2021 11:50;23265;-791617;10;4,7;mb;;134;2193;88;us;us6000e1a6;19/06/2021 16:25;earthquake;77;19;46;140;reviewed;us;us;64 km WNW of Salahonda;Salahonda;Nariño;Colombia
+2/04/2021 17:44;74576;-769434;40,95;5;mww;;25;1502;74;us;us6000dymn;22/12/2025 14:07;earthquake;63;46;75;17;reviewed;us;us;19 km E of Riosucio;Riosucio;Choco;Colombia
+30/03/2021 20:17;68986;-730525;143,44;4,4;mb;;128;1;75;us;us6000dxst;8/06/2021 12:59;earthquake;74;65;148;13;reviewed;us;us;9 km S of Piedecuesta;Piedecuesta;Santander;Colombia
+28/03/2021 22:00;5215;-728784;10;4,4;mb;;75;703;84;us;us6000dzmr;8/06/2021 13:00;earthquake;67;16;77;49;reviewed;us;us;0 km W of Chámeza;Chámeza;Casanare;Colombia
+28/03/2021 10:01;50712;-728726;9,15;4,6;mb;;71;842;61;us;us6000dx6m;8/06/2021 12:58;earthquake;55;57;4;187;reviewed;us;us;15 km WNW of Tauramena;Tauramena;Casanare;Colombia
+24/03/2021 20:57;68553;-729767;144,38;4,4;mb;;78;962;49;us;us6000dw7r;2/06/2021 10:22;earthquake;83;81;41;176;reviewed;us;us;11 km N of Cepitá;Cepitá;Santander;Colombia
+24/03/2021 8:07;40468;-713204;10;4,1;mb;;90;2538;59;us;us6000dxz7;2/06/2021 10:23;earthquake;89;2;261;4;reviewed;us;us;Colombia;;CARCHI;Colombia
+22/03/2021 0:55;40455;-712743;10;4,4;mb;;80;2571;112;us;us6000dxmb;2/06/2021 10:23;earthquake;75;2;144;14;reviewed;us;us;82 km S of Orocué;Orocué;Meta;Colombia
+21/03/2021 23:37;39157;-713594;10;5;mww;;31;2608;87;us;us7000dliw;22/12/2025 13:54;earthquake;67;18;46;45;reviewed;us;us;91 km ESE of Puerto Gaitán;Puerto Gaitán;Meta;Colombia
+21/03/2021 11:44;67799;-729547;148,07;4,3;mb;;78;89;64;us;us6000dxfr;2/06/2021 10:23;earthquake;91;78;129;17;reviewed;us;us;3 km NE of Cepitá;Cepitá;Santander;Colombia
+21/03/2021 10:23;3943;-713508;10;4,4;mb;;88;2594;34;us;us6000dxfw;2/06/2021 10:23;earthquake;87;19;11;24;reviewed;us;us;90 km ESE of Puerto Gaitán;Puerto Gaitán;Meta;Colombia
+21/03/2021 5:36;68481;-729508;148,73;4,3;mb;;79;958;77;us;us6000dxf9;2/06/2021 10:23;earthquake;83;98;218;6;reviewed;us;us;10 km NNE of Cepitá;Cepitá;Santander;Colombia
+20/03/2021 19:08;60469;-768215;45,64;4,3;mb;;95;1293;65;us;us6000dxer;2/06/2021 10:23;earthquake;68;92;187;8;reviewed;us;us;43 km NNW of Quibdó;Quibdó;Choco;Colombia
+20/03/2021 18:46;39648;-71414;15,3;4,9;mb;;57;2536;71;us;us7000dlc1;22/12/2025 13:00;earthquake;77;39;49;130;reviewed;us;us;83 km ESE of Puerto Gaitán;Puerto Gaitán;Meta;Colombia
+18/03/2021 8:07;40071;-713188;10;4,4;mb;;110;2568;76;us;us6000dwn7;26/05/2021 17:08;earthquake;83;19;108;25;reviewed;us;us;86 km S of Orocué;Orocué;Meta;Colombia
+14/03/2021 13:14;64702;-744627;79,01;4,8;mb;;59;1095;114;us;us7000djca;26/05/2021 17:07;earthquake;48;67;36;241;reviewed;us;us;7 km WSW of Puerto Berrío;Puerto Berrío;Antioquia;Colombia
+9/03/2021 3:01;6879;-72969;146,4;4,3;mb;;78;986;78;us;us7000dhdg;21/05/2021 14:48;earthquake;88;101;68;62;reviewed;us;us;12 km W of Guaca;Guaca;Santander;Colombia
+3/03/2021 1:45;68353;-730135;149,97;4,4;mb;;37;939;88;us;us7000df2q;13/05/2021 17:41;earthquake;74;79;48;129;reviewed;us;us;9 km NNW of Cepitá;Cepitá;Santander;Colombia
+1/03/2021 17:57;62035;-76254;10;5,1;mww;;65;721;104;us;us7000deqh;22/12/2025 13:51;earthquake;6;18;71;19;reviewed;us;us;18 km SW of Urrao;Urrao;Choco;Colombia
+27/02/2021 15:16;68501;-730533;143,81;4,4;mb;;59;951;72;us;us7000dfik;13/05/2021 17:36;earthquake;67;76;134;16;reviewed;us;us;13 km NW of Cepitá;Cepitá;Santander;Colombia
+27/02/2021 3:30;75998;-734299;111;4,4;mb;;57;173;13;us;us7000dfic;13/05/2021 17:36;earthquake;59;87;134;16;reviewed;us;us;18 km SSW of San Alberto;San Alberto;Norte de Santander;Colombia
+24/02/2021 2:55;5022;-760609;93,13;4,5;mb;;94;1276;115;us;us6000dkm1;4/05/2021 9:16;earthquake;39;111;156;12;reviewed;us;us;6 km WNW of La Celia;La Celia;Risaralda;Colombia
+23/02/2021 9:27;69172;-73133;140,54;4,4;mb;;120;1019;6;us;us7000ddy0;4/05/2021 9:16;earthquake;59;89;61;77;reviewed;us;us;12 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+22/02/2021 2:29;68919;-731569;145,44;4,5;mb;;44;995;69;us;us6000dk12;4/05/2021 9:16;earthquake;69;88;67;67;reviewed;us;us;14 km E of Betulia;Betulia;Santander;Colombia
+19/02/2021 10:55;34642;-743272;10;4,4;mb;;138;1371;116;us;us6000dkrn;4/05/2021 9:15;earthquake;93;19;71;58;reviewed;us;us;32 km WNW of Mesetas;Mesetas;Meta;Colombia
+18/02/2021 23:13;6605;-73499;117,51;4,2;mb;;98;819;54;us;us6000dkqy;4/05/2021 9:14;earthquake;8;51;16;11;reviewed;us;us;10 km S of El Carmen de Chucurí;El Carmen de Chucurí;Santander;Colombia
+14/02/2021 19:17;114374;-770161;10;4,6;mb;;57;2367;82;us;us6000dhpp;8/08/2022 21:50;earthquake;7;19;114;23;reviewed;us;us;200 km NW of Cartagena;Cartagena;Bolivar;Colombia
+11/02/2021 20:57;68531;-730407;147,02;4,5;mb;;70;955;113;us;us6000dgv4;23/04/2021 16:04;earthquake;8;71;118;21;reviewed;us;us;13 km NW of Cepitá;Cepitá;Santander;Colombia
+11/02/2021 0:39;68276;-730564;145,13;4,1;mb;;59;929;56;us;us6000dj4s;22/04/2021 16:53;earthquake;47;89;96;30;reviewed;us;us;11 km NNE of Jordán;Jordán;Santander;Colombia
+7/02/2021 18:05;60518;-743282;104,65;4,1;mb;;133;1199;68;us;us6000dh2f;22/04/2021 16:51;earthquake;91;205;301;3;reviewed;us;us;29 km ENE of Puerto Boyacá;Puerto Boyacá;Boyaca;Colombia
+5/02/2021 2:53;68018;-730451;156,28;4,4;mb;;43;904;121;us;us6000dem5;22/04/2021 16:50;earthquake;71;73;97;31;reviewed;us;us;9 km NW of Cepitá;Cepitá;Santander;Colombia
+1/02/2021 13:26;127969;-717962;10;4,5;mb;;85;1105;113;us;us6000dfw8;16/04/2021 14:03;earthquake;62;18;163;11;reviewed;us;us;130 km NNE of Uribia;Uribia;La Guajira;Colombia
+29/01/2021 14:23;70716;-720803;24,39;4,6;mb;;63;1538;63;us;us6000dd2a;16/04/2021 14:02;earthquake;26;55;74;57;reviewed;us;us;7 km NNE of Cubará;Cubará;Norte de Santander;Colombia
+27/01/2021 2:57;44075;-75856;159,4;4,9;mb;;86;159;88;us;us7000d3m3;22/12/2025 13:49;earthquake;69;67;26;452;reviewed;us;us;8 km NNW of Caicedonia;Caicedonia;Valle del Cauca;Colombia
+23/01/2021 16:12;31222;-748254;25,07;4,9;mww;;66;1783;88;us;us7000d2ra;13/04/2021 12:05;earthquake;81;43;86;13;reviewed;us;us;25 km E of Baraya;Baraya;Huila;Colombia
+23/01/2021 3:24;60582;-774439;32,79;4,5;mb;;108;1908;69;us;us7000d2mv;13/04/2021 12:07;earthquake;64;61;109;25;reviewed;us;us;19 km SSW of Bahía Solano;Bahía Solano;Choco;Colombia
+19/01/2021 9:51;68519;-731146;146,2;4,4;mb;;127;953;62;us;us7000d3qv;27/03/2021 16:06;earthquake;34;8;154;13;reviewed;us;us;13 km N of Jordán;Jordán;Santander;Colombia
+18/01/2021 23:30;70221;-731158;150,93;4,1;mb;;86;1122;78;us;us7000d3qi;27/03/2021 16:06;earthquake;75;41;234;5;reviewed;us;us;5 km SW of Floridablanca;Floridablanca;Santander;Colombia
+18/01/2021 12:15;68733;-730737;154,12;4,3;mb;;82;2366;82;us;us7000d3pp;27/03/2021 16:06;earthquake;75;82;118;20;reviewed;us;us;12 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+12/01/2021 20:11;25119;-798007;10;4,7;mb;;62;2631;75;us;us6000d7wm;20/03/2021 16:24;earthquake;23;19;63;76;reviewed;us;us;137 km WNW of Salahonda;Salahonda;Nariño;Colombia
+9/01/2021 13:34;53231;-737168;158,64;4,1;mb;;66;766;11;us;us7000d154;20/03/2021 16:23;earthquake;41;48;303;3;reviewed;us;us;1 km NNW of Lenguazaque;Lenguazaque;Cundinamarca;Colombia
+6/01/2021 23:37;68167;-730503;149,56;4,6;mb;;40;918;95;us;us6000d6cd;13/03/2021 17:59;earthquake;58;54;32;287;reviewed;us;us;10 km NNE of Jordán;Jordán;Santander;Colombia
+6/01/2021 10:32;37654;-791331;10;4,4;mb;;163;357;107;us;us7000d0bl;13/03/2021 18:00;earthquake;56;19;134;16;reviewed;us;us;158 km NNW of Mosquera;Mosquera;Cundinamarca;Colombia
+5/01/2021 22:58;51321;-762115;105,23;4,3;mb;;61;1252;77;us;us7000d0b7;13/03/2021 18:00;earthquake;68;72;119;20;reviewed;us;us;22 km WSW of Pueblo Rico;Pueblo Rico;Choco;Colombia
+28/12/2020 16:47;34478;-77253;88,49;4,4;mb;;109;3221;114;us;us6000d3tl;6/03/2021 18:20;earthquake;55;8;85;41;reviewed;us;us;31 km WSW of Buenaventura;Buenaventura;Valle del Cauca;Colombia
+16/12/2020 18:32;67841;-730438;153,59;4,9;mb;;26;886;9;us;us7000crpn;27/02/2021 18:25;earthquake;62;51;59;91;reviewed;us;us;8 km NE of Jordán;Jordán;Santander;Colombia
+11/12/2020 21:24;57554;-778605;10;5;mww;;53;2359;88;us;us7000cqgq;22/12/2025 13:46;earthquake;7;18;68;21;reviewed;us;us;65 km W of Nuquí;Nuquí;Choco;Colombia
+11/12/2020 20:07;79108;-726334;187,26;4,5;mb;;37;2054;1;us;us7000cqgi;20/02/2021 11:11;earthquake;75;39;28;374;reviewed;us;us;3 km NNW of San Cayetano;San Cayetano;Norte de Santander;Colombia
+7/12/2020 22:22;47546;-774135;35;5,1;mww;;31;2357;77;us;us7000cp26;22/12/2025 13:46;earthquake;38;19;5;38;reviewed;us;us;22 km SSW of Pizarro;Pizarro;Choco;Colombia
+7/12/2020 17:40;68728;-73095;144,94;4;mb;;71;974;87;us;us7000cpv9;12/02/2021 17:41;earthquake;69;91;138;14;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+30/11/2020 23:20;69488;-769087;51,14;4,4;mb;;44;1563;92;us;us7000cli2;6/02/2021 13:29;earthquake;68;73;98;30;reviewed;us;us;10 km WSW of Murindó;Murindó;Choco;Colombia
+24/11/2020 19:21;531;-776121;10;4,6;mb;;75;2249;124;us;us7000cked;6/02/2021 13:28;earthquake;82;19;103;28;reviewed;us;us;47 km NW of Pizarro;Pizarro;Choco;Colombia
+24/11/2020 14:05;69956;-779807;10;4,5;mb;;107;2444;109;us;us6000cs48;3/02/2021 12:50;earthquake;72;19;181;12;reviewed;us;us;26 km WSW of Juradó;Juradó;Choco;Colombia
+19/11/2020 20:03;68537;-730993;145,96;4,1;mb;;118;955;98;us;us6000cs0r;3/02/2021 12:50;earthquake;53;68;116;21;reviewed;us;us;13 km N of Jordán;Jordán;Santander;Colombia
+19/11/2020 19:57;68332;-730682;148,74;4,7;mb;;35;934;76;us;us6000cqlc;3/02/2021 12:50;earthquake;62;55;3;346;reviewed;us;us;11 km NNE of Jordán;Jordán;Santander;Colombia
+16/11/2020 18:19;6885;-731113;147,53;4,6;mb;;96;986;79;us;us6000cqfa;27/01/2021 12:28;earthquake;72;74;173;10;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+16/11/2020 8:59;47244;-765228;72,99;4,8;mb;;58;1761;113;us;us7000cfn8;27/01/2021 12:29;earthquake;7;72;82;48;reviewed;us;us;15 km ENE of Sipí;Sipí;Choco;Colombia
+6/11/2020 5:22;6917;-730665;145,81;4,3;mb;;135;1017;65;us;us7000cba1;23/01/2021 17:25;earthquake;91;9;66;67;reviewed;us;us;8 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+1/11/2020 17:18;70238;-729871;171,26;4,4;mb;;58;1128;75;us;us7000cb94;18/01/2021 18:01;earthquake;72;74;218;6;reviewed;us;us;7 km ENE of Piedecuesta;Piedecuesta;Santander;Colombia
+29/10/2020 12:39;68712;-731354;144,54;4,3;mb;;126;973;79;us;us7000c7m3;18/01/2021 18:01;earthquake;75;74;94;32;reviewed;us;us;15 km ENE of Zapatoca;Zapatoca;Santander;Colombia
+28/10/2020 22:57;67952;-730287;143,71;4,3;mb;;44;898;69;us;us7000c7d3;18/01/2021 18:01;earthquake;65;62;62;73;reviewed;us;us;7 km NW of Cepitá;Cepitá;Santander;Colombia
+22/10/2020 10:39;69731;-731719;142,47;4,4;mb;;122;1077;119;us;us7000c71b;9/01/2021 15:05;earthquake;68;49;31;3;reviewed;us;us;10 km S of Girón;Girón;Santander;Colombia
+11/10/2020 8:15;67857;-729701;153,14;4,8;mb;;59;235;82;us;us6000c8ij;19/12/2020 12:22;earthquake;51;78;109;26;reviewed;us;us;3 km N of Cepitá;Cepitá;Santander;Colombia
+5/10/2020 1:54;68449;-730339;148,35;4,2;mb;;99;947;96;us;us6000c71t;12/12/2020 17:28;earthquake;93;86;124;18;reviewed;us;us;11 km NNW of Cepitá;Cepitá;Santander;Colombia
+4/10/2020 16:32;40701;-713508;16,69;4,6;mb;;50;2501;61;us;us6000c5jq;12/12/2020 17:28;earthquake;31;42;98;31;reviewed;us;us;79 km S of Orocué;Orocué;Meta;Colombia
+29/09/2020 17:05;40316;-714695;25,25;4,4;mb;;62;2955;75;us;us6000c2xu;5/12/2020 16:03;earthquake;83;49;72;56;reviewed;us;us;74 km ESE of Puerto Gaitán;Puerto Gaitán;Meta;Colombia
+28/09/2020 17:59;51128;-767076;78,11;4,6;mb;;55;2392;117;us;us6000c4r3;5/12/2020 16:03;earthquake;79;86;114;23;reviewed;us;us;5 km SSW of Istmina;Istmina;Choco;Colombia
+27/09/2020 9:21;66236;-727907;171,49;4,2;mb;;177;2332;39;us;us6000c40q;5/12/2020 16:03;earthquake;11;107;78;46;reviewed;us;us;5 km SSE of Molagavita;Molagavita;Santander;Colombia
+21/09/2020 9:59;44655;-784196;10;4,7;mb;;67;4102;95;us;us7000bqrk;28/11/2020 16:32;earthquake;49;18;48;132;reviewed;us;us;119 km W of Santa Genoveva de Docordó;Santa Genoveva de Docordó;Choco;Colombia
+19/09/2020 7:42;67621;-729752;164,54;4,1;mb;;76;2328;31;us;us6000c0hz;28/11/2020 16:31;earthquake;96;121;184;8;reviewed;us;us;0 km N of Cepitá;Cepitá;Santander;Colombia
+13/09/2020 1:02;68111;-730107;153,1;4,4;mb;;60;2348;6;us;us7000bpfk;21/11/2020 15:10;earthquake;73;87;88;37;reviewed;us;us;7 km NNW of Cepitá;Cepitá;Santander;Colombia
+6/09/2020 7:11;59644;-774663;10,66;4,4;mb;;109;3322;84;us;us7000bix1;17/11/2020 14:44;earthquake;86;56;104;27;reviewed;us;us;29 km SSW of Bahía Solano;Bahía Solano;Choco;Colombia
+3/09/2020 23:58;67707;-73026;157,95;4,4;mb;;41;2306;98;us;us7000bhmn;17/11/2020 14:44;earthquake;77;58;52;105;reviewed;us;us;5 km WNW of Cepitá;Cepitá;Santander;Colombia
+2/09/2020 22:23;82139;-769417;43,48;4,5;mb;;85;3015;64;us;us7000bh09;17/11/2020 14:44;earthquake;75;45;48;129;reviewed;us;us;25 km NE of Unguía;Unguía;Choco;Colombia
+22/08/2020 17:38;67594;-72948;160,93;4;mb;;61;2341;105;us;us7000be93;31/10/2020 14:06;earthquake;74;72;156;11;reviewed;us;us;2 km E of Cepitá;Cepitá;Santander;Colombia
+19/08/2020 20:16;52484;-785237;10;5,3;mww;;119;4105;62;us;us6000bhhp;22/12/2025 13:40;earthquake;34;18;47;43;reviewed;us;us;132 km WNW of Pizarro;Pizarro;Choco;Colombia
+15/08/2020 12:34;67766;-730629;155,66;4,3;mb;;98;2291;82;us;us6000bhr5;24/10/2020 15:09;earthquake;89;89;122;19;reviewed;us;us;6 km NE of Jordán;Jordán;Santander;Colombia
+14/08/2020 23:34;67784;-730629;158,9;4,3;mb;;92;2292;92;us;us6000bhqf;24/10/2020 15:09;earthquake;99;104;142;14;reviewed;us;us;6 km NE of Jordán;Jordán;Santander;Colombia
+13/08/2020 21:34;42369;-736232;10;4,4;mb;;73;921;97;us;us6000beig;23/01/2021 16:56;earthquake;53;18;108;25;reviewed;us;us;7 km WSW of Restrepo;Restrepo;Meta;Colombia
+11/08/2020 15:57;67127;-729893;154,38;4,3;mb;;107;228;103;us;us6000bg1q;21/10/2020 17:04;earthquake;78;58;108;25;reviewed;us;us;3 km ENE of Aratoca;Aratoca;Santander;Colombia
+2/08/2020 23:28;67679;-729421;158,46;4,3;mb;;107;2352;119;us;us6000bakj;10/10/2020 12:11;earthquake;87;72;93;33;reviewed;us;us;3 km ENE of Cepitá;Cepitá;Santander;Colombia
+29/07/2020 3:04;68524;-730498;153,81;4,3;mb;;104;2361;7;us;us6000b97s;10/10/2020 12:11;earthquake;75;98;109;24;reviewed;us;us;13 km NW of Cepitá;Cepitá;Santander;Colombia
+25/07/2020 5:48;27258;-795197;10;4,6;mb;;140;2692;73;us;us6000b3ya;3/10/2020 12:32;earthquake;8;18;4;189;reviewed;us;us;121 km WNW of Mosquera;Mosquera;Cundinamarca;Colombia
+22/07/2020 14:21;67749;-730218;152,11;4,6;mb;;41;2312;81;us;us6000b257;3/10/2020 12:32;earthquake;78;6;29;362;reviewed;us;us;5 km WNW of Cepitá;Cepitá;Santander;Colombia
+21/07/2020 22:16;110149;-724162;98,7;5,1;mww;;35;275;89;us;us7000assn;22/12/2025 13:38;earthquake;79;41;47;44;reviewed;us;us;25 km SE of Albania;Albania;Zulia;Colombia
+21/07/2020 16:40;69523;-728355;173,3;4,6;mb;;47;2562;111;us;us7000asp1;26/09/2020 11:58;earthquake;82;64;28;385;reviewed;us;us;8 km NNE of Guaca;Guaca;Santander;Colombia
+19/07/2020 14:26;68045;-729999;160,01;4,6;mb;;59;2349;125;us;us7000arb0;26/09/2020 11:58;earthquake;84;63;28;378;reviewed;us;us;6 km NNW of Cepitá;Cepitá;Santander;Colombia
+12/07/2020 20:41;68861;-731059;151,07;4,2;mb;;155;236;82;us;us7000arnz;19/09/2020 15:58;earthquake;122;105;96;30;reviewed;us;us;12 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+12/07/2020 8:36;68703;-730943;156,06;4,2;mb;;124;2353;75;us;us7000aqeq;19/09/2020 15:58;earthquake;95;68;98;29;reviewed;us;us;13 km SSW of Piedecuesta;Piedecuesta;Santander;Colombia
+11/07/2020 15:26;6829;-73079;151,9;4,6;mb;;48;2326;87;us;us7000am18;19/09/2020 15:58;earthquake;32;67;65;73;reviewed;us;us;10 km N of Jordán;Jordán;Santander;Colombia
+9/07/2020 15:10;67795;-730182;156,12;4,3;mb;;59;2318;79;us;us7000apit;19/09/2020 15:58;earthquake;96;72;92;34;reviewed;us;us;5 km WNW of Cepitá;Cepitá;Santander;Colombia
+8/07/2020 22:22;6786;-729901;156,01;4,9;mb;;41;2339;102;us;us7000akj8;19/09/2020 15:57;earthquake;32;6;22;655;reviewed;us;us;3 km NNW of Cepitá;Cepitá;Santander;Colombia
+6/07/2020 6:38;69035;-731327;152,47;4,2;mb;;71;2362;59;us;us7000alf4;11/09/2020 17:14;earthquake;72;94;83;40;reviewed;us;us;13 km SW of Piedecuesta;Piedecuesta;Santander;Colombia
+22/06/2020 15:02;68021;-72998;151,78;4,2;mb;;105;2348;79;us;us7000acbg;29/08/2020 19:01;earthquake;83;105;374;2;reviewed;us;us;5 km NNW of Cepitá;Cepitá;Santander;Colombia
+9/06/2020 1:18;69545;-73162;138,61;4,2;mb;;156;2392;74;us;us6000acxc;18/08/2020 12:59;earthquake;124;202;265;4;reviewed;us;us;12 km S of Girón;Girón;Santander;Colombia
+28/05/2020 3:52;67503;-729388;155,03;4,2;mb;;62;2339;11;us;us6000a5zr;15/08/2020 15:19;earthquake;81;77;159;11;reviewed;us;us;3 km E of Cepitá;Cepitá;Santander;Colombia
+24/05/2020 7:22;27483;-765659;10;4,5;mb;;83;3125;115;us;us70009pgm;8/08/2020 13:17;earthquake;94;19;61;79;reviewed;us;us;6 km E of Morales;Morales;Cauca;Colombia
+19/05/2020 10:04;67759;-72954;163,78;4,2;mb;;59;2351;44;us;us6000a01z;1/08/2020 19:28;earthquake;61;56;73;52;reviewed;us;us;3 km NE of Cepitá;Cepitá;Santander;Colombia
+19/05/2020 2:19;5913;-775001;10;5;mww;;51;3338;144;us;us70009kin;22/12/2025 13:34;earthquake;38;18;93;11;reviewed;us;us;33 km NW of Nuquí;Nuquí;Choco;Colombia
+16/05/2020 14:36;6705;-729513;161,75;4,5;mb;;82;2296;89;us;us70009ic3;1/08/2020 19:29;earthquake;41;64;76;50;reviewed;us;us;6 km SSE of Cepitá;Cepitá;Santander;Colombia
+14/05/2020 13:40;69785;-731839;149,86;4,2;mb;;126;2402;104;us;us70009mjb;1/08/2020 19:31;earthquake;106;89;303;3;reviewed;us;us;10 km S of Girón;Girón;Santander;Colombia
+12/05/2020 1:48;67365;-730246;156,4;4,4;mb;;62;2279;81;us;us70009el5;29/07/2020 17:14;earthquake;81;64;39;189;reviewed;us;us;4 km N of Aratoca;Aratoca;Santander;Colombia
+10/05/2020 18:10;24112;-773265;92,49;4,5;mb;;82;2434;69;us;us70009du7;29/07/2020 17:14;earthquake;82;67;49;121;reviewed;us;us;19 km NNW of Argelia;Argelia;Cauca;Colombia
+5/05/2020 23:42;68426;-730651;150,7;4;mb;;90;2345;53;us;us70009fec;29/07/2020 17:14;earthquake;94;82;144;13;reviewed;us;us;12 km NNE of Jordán;Jordán;Santander;Colombia
+5/05/2020 11:28;68361;-730526;153,61;4,7;mb;;104;2346;85;us;us70009ese;18/07/2020 16:57;earthquake;107;6;318;3;reviewed;us;us;12 km NNE of Jordán;Jordán;Santander;Colombia
+4/05/2020 15:52;26532;-797195;10;4,6;mb;;135;2714;123;us;us70009a3g;18/07/2020 16:57;earthquake;74;18;41;175;reviewed;us;us;136 km WNW of Salahonda;Salahonda;Nariño;Colombia
+30/04/2020 1:47;70761;-730361;156,35;4,3;mb;;55;2558;78;us;us700097ct;18/07/2020 16:57;earthquake;81;5;74;52;reviewed;us;us;5 km ENE of Floridablanca;Floridablanca;Santander;Colombia
+25/04/2020 22:29;48926;-727887;47,73;4,4;mb;;57;1527;1;us;us700097nv;11/07/2020 17:19;earthquake;53;69;112;23;reviewed;us;us;11 km E of Monterrey;Monterrey;Casanare;Colombia
+25/04/2020 10:30;50458;-726728;50,13;4,7;mb;;56;1654;106;us;us60009c8u;11/07/2020 17:19;earthquake;85;82;113;24;reviewed;us;us;8 km ENE of Tauramena;Tauramena;Casanare;Colombia
+18/04/2020 8:41;67158;-729119;163,06;4,4;mb;;62;2328;81;us;us70008zdr;9/07/2020 9:31;earthquake;32;104;53;103;reviewed;us;us;8 km ESE of Cepitá;Cepitá;Santander;Colombia
+16/04/2020 23:49;906;-743237;47,34;4,5;mb;;33;4187;94;us;us70008y5u;9/07/2020 9:31;earthquake;77;68;99;30;reviewed;us;us;12 km SSW of Margarita;Margarita;Bolivar;Colombia
+15/04/2020 5:59;90335;-744338;53;5,7;mww;;20;4162;99;us;us70008wpb;22/12/2025 13:32;earthquake;73;19;4;59;reviewed;us;us;13 km NNE of Pinillos;Pinillos;Bolivar;Colombia
+13/04/2020 15:44;40085;-762402;156,54;4,6;mb;;115;2086;93;us;us700090hk;30/06/2020 9:03;earthquake;81;49;122;20;reviewed;us;us;2 km NW of San Pedro;San Pedro;Valle del Cauca;Colombia
+12/04/2020 8:02;88577;-724176;124,49;4,4;mb;;100;4411;56;us;us70008ym1;30/06/2020 9:03;earthquake;76;77;138;15;reviewed;us;us;42 km NE of Tibú;Tibú;Zulia;Colombia
+12/04/2020 7:31;73954;-771263;47,51;4,8;mb;;90;3208;72;us;us70008uu4;30/06/2020 9:03;earthquake;91;84;71;62;reviewed;us;us;5 km S of Riosucio;Riosucio;Choco;Colombia
+11/04/2020 21:41;67502;-729651;163,67;4,6;mb;;62;2324;128;us;us70008uic;30/06/2020 9:03;earthquake;7;82;3;327;reviewed;us;us;1 km ESE of Cepitá;Cepitá;Santander;Colombia
+10/04/2020 22:34;65113;-73991;59,28;4,3;mb;;122;1687;63;us;us70008yja;30/06/2020 9:03;earthquake;102;43;169;10;reviewed;us;us;17 km SSE of Puerto Parra;Puerto Parra;Santander;Colombia
+9/04/2020 20:11;67079;-729393;167,78;4,1;mb;;91;2305;61;us;us70008ydx;30/06/2020 9:03;earthquake;111;94;131;16;reviewed;us;us;6 km SE of Cepitá;Cepitá;Santander;Colombia
+7/04/2020 7:40;67669;-730082;166,43;4;mb;;64;2313;89;us;us70008wmh;20/06/2020 19:55;earthquake;101;66;15;12;reviewed;us;us;3 km WNW of Cepitá;Cepitá;Santander;Colombia
+6/04/2020 22:29;68873;-729804;151,53;4,5;mb;;128;2428;67;us;us70008qd0;20/06/2020 19:55;earthquake;151;113;65;69;reviewed;us;us;13 km SE of Piedecuesta;Piedecuesta;Santander;Colombia
+3/04/2020 13:52;50023;-763416;134,53;4;mb;;92;2019;1;us;us70008rr0;20/06/2020 19:54;earthquake;78;153;183;8;reviewed;us;us;16 km NW of San José del Palmar;San José del Palmar;Choco;Colombia
+1/04/2020 22:15;5724;-760317;86,86;4,8;mww;;37;1914;96;us;us70008l6q;20/06/2020 19:54;earthquake;76;49;93;11;reviewed;us;us;6 km WSW of Betania;Betania;Antioquia;Colombia
+31/03/2020 9:16;66873;-729791;162,39;4,2;mb;;77;2265;4;us;us70008mt2;13/06/2020 13:44;earthquake;87;86;96;30;reviewed;us;us;4 km E of Aratoca;Aratoca;Santander;Colombia
+30/03/2020 16:32;6737;-729452;161,04;4,2;mb;;108;2325;66;us;us70008mnx;13/06/2020 13:44;earthquake;99;76;141;14;reviewed;us;us;3 km ESE of Cepitá;Cepitá;Santander;Colombia
+28/03/2020 0:55;67999;-730549;155,01;4,9;mb;;75;2315;122;us;us70008hq3;13/06/2020 13:44;earthquake;88;72;77;53;reviewed;us;us;8 km NNE of Jordán;Jordán;Santander;Colombia
+17/03/2020 7:52;59215;-735391;135,52;4,1;mb;;122;1323;4;us;us70008gya;30/05/2020 17:17;earthquake;119;61;112;22;reviewed;us;us;3 km WSW of Togüí;Togüí;Boyaca;Colombia
+16/03/2020 21:54;67596;-729509;156,88;4,3;mb;;46;234;52;us;us70008gxz;30/05/2020 17:17;earthquake;61;64;16;11;reviewed;us;us;2 km ENE of Cepitá;Cepitá;Santander;Colombia
+15/03/2020 13:33;362;-690619;12,64;4,4;mb;;59;6886;124;us;us60008g51;30/05/2020 17:17;earthquake;8;51;103;30;reviewed;us;us;163 km SE of Mitú;Mitú;Vaupes;Colombia
+5/03/2020 21:38;67766;-729332;160,52;4,6;mb;;38;2364;136;us;us60008ask;23/05/2020 17:03;earthquake;77;56;98;31;reviewed;us;us;5 km ENE of Cepitá;Cepitá;Santander;Colombia
+29/02/2020 6:18;58029;-776217;10;4,3;mb;;106;3421;121;us;us60008ad2;19/05/2020 17:14;earthquake;52;19;188;8;reviewed;us;us;40 km WNW of Nuquí;Nuquí;Choco;Colombia
+29/02/2020 3:06;58438;-776307;10;4,7;mb;;106;3441;81;us;us600086tp;8/08/2022 13:32;earthquake;72;19;81;46;reviewed;us;us;42 km WNW of Nuquí;Nuquí;Choco;Colombia
+27/02/2020 23:48;6699;-729774;158,91;4,2;mb;;47;2276;106;us;us600085uj;19/05/2020 17:14;earthquake;74;78;78;46;reviewed;us;us;4 km E of Aratoca;Aratoca;Santander;Colombia
+26/02/2020 19:49;5183;-735712;155,06;4,1;mb;;80;819;84;us;us600089jg;19/05/2020 17:14;earthquake;72;79;213;6;reviewed;us;us;4 km SE of Villapinzón;Villapinzón;Cundinamarca;Colombia
+26/02/2020 12:14;26379;-796043;10;4,5;mb;;149;2648;129;us;us600084nf;19/05/2020 17:13;earthquake;96;18;66;67;reviewed;us;us;124 km WNW of Salahonda;Salahonda;Nariño;Colombia
+22/02/2020 5:14;62994;-720945;10;4,5;mb;;79;2645;6;us;us70007uqn;9/05/2020 16:41;earthquake;84;19;74;53;reviewed;us;us;27 km NE of Sácama;Sácama;Arauca;Colombia
+21/02/2020 7:35;67795;-729879;162,22;4,5;mb;;62;2335;83;us;us70007u4y;9/05/2020 16:41;earthquake;5;88;34;260;reviewed;us;us;3 km NNW of Cepitá;Cepitá;Santander;Colombia
+21/02/2020 5:34;34822;-793807;10;4,8;mb;;145;4276;88;us;us70007u3c;9/05/2020 16:41;earthquake;42;19;3;340;reviewed;us;us;149 km NW of Mosquera;Mosquera;Cundinamarca;Colombia
+13/02/2020 20:29;55129;-733156;5,06;4,5;mb;;65;1201;84;us;us70007pt2;2/05/2020 17:09;earthquake;7;61;115;22;reviewed;us;us;2 km NE of Soracá;Soracá;Boyaca;Colombia
+13/02/2020 10:29;35396;-740313;9,29;4,4;mb;;102;1328;69;us;us70007tmz;2/05/2020 17:10;earthquake;81;74;22;6;reviewed;us;us;1 km NNW of Lejanías;Lejanías;Meta;Colombia
+8/02/2020 21:41;67729;-729888;159,2;4,2;mb;;106;2329;77;us;us70007q7d;25/04/2020 17:19;earthquake;45;96;136;15;reviewed;us;us;2 km NW of Cepitá;Cepitá;Santander;Colombia
+1/02/2020 5:26;67604;-729662;155,42;4,5;mb;;62;2332;74;us;us60007m2t;18/04/2020 17:10;earthquake;9;91;36;224;reviewed;us;us;1 km NE of Cepitá;Cepitá;Santander;Colombia
+30/01/2020 1:33;67813;-729965;162,56;4,6;mb;;46;2331;1;us;us60007jud;18/04/2020 17:09;earthquake;38;89;59;84;reviewed;us;us;3 km NW of Cepitá;Cepitá;Santander;Colombia
+16/01/2020 23:32;22118;-796665;10;4,8;mb;;136;2307;108;us;us700071h9;8/04/2020 14:40;earthquake;23;18;4;199;reviewed;us;us;107 km WNW of Tumaco;Tumaco;Nariño;Colombia
+14/01/2020 12:57;68007;-730241;157,09;4,8;mb;;49;2332;84;us;us70006zqu;2/04/2020 16:28;earthquake;73;54;29;362;reviewed;us;us;7 km NW of Cepitá;Cepitá;Santander;Colombia
+12/01/2020 18:31;67526;-730103;158,18;4,5;mb;;42;23;126;us;us60007eu4;2/04/2020 16:27;earthquake;68;39;78;48;reviewed;us;us;3 km W of Cepitá;Cepitá;Santander;Colombia
+5/01/2020 8:47;43433;-761039;154,34;4,3;mb;;66;1845;62;us;us600079ay;21/03/2020 12:13;earthquake;105;65;7;58;reviewed;us;us;6 km SSW of Zarzal;Zarzal;Valle del Cauca;Colombia
