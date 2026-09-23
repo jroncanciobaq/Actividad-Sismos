@@ -464,7 +464,7 @@ Interpretación estadística de resultados.
 
 👨‍💻 Autores
 
-Adriana Sofía Pinzón Burgos
+Adriana Sofía Pinzón Burgos y 
 Juan Sebastian Roncancio Baquero
 
 Maestría en Analítica de Datos
